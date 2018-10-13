@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<category><pattern>南开</pattern><template>是我的学校</template></category>
+<category><pattern>南开</pattern><template>我的</template></category>
+<category><pattern>南开</pattern><template>南开</template></category>
+<category><pattern>南开</pattern><template>南开</template></category>
+<category><pattern>南开</pattern><template>南开</template></category>
+<category><pattern>南开</pattern><template>南开</template></category>
+<category><pattern>南开大学</pattern><template>是我的学校！</template></category>
+<category><pattern>你们设计者</pattern><template>四个智障</template></category>
+<category><pattern>/表情</pattern><template>今天怎么样</template></category>
+<category><pattern>/表情</pattern><template>挺好的</template></category>
+<category><pattern>今天怎么样</pattern><template>很好</template></category>
+<category><pattern>/表情</pattern><template>啥啊</template></category>
+<category><pattern>/表情</pattern><template>不会</template></category>
+<category><pattern>组长是谁</pattern><template>ssl</template></category>
+<category><pattern>早上好</pattern><template>早上好呀</template></category>
+<category><pattern>抱抱小开</pattern><template>哇啦</template></category>
+<category><pattern>晚上好</pattern><template>晚上好呀</template></category>
+<category><pattern>怎么样</pattern><template>我觉得海星</template></category>
+<category><pattern>呱呱</pattern><template>是青蛙吗</template></category>
+<category><pattern>哇啦啦</pattern><template>呜哈哈</template></category>
+<category><pattern>拉拉链</pattern><template>你有毒哦</template></category>
+</aiml>
