@@ -22,6 +22,6 @@
 <category><pattern>晚上好</pattern><template>晚上好呀</template></category>
 <category><pattern>怎么样</pattern><template>我觉得海星</template></category>
 <category><pattern>呱呱</pattern><template>是青蛙吗</template></category>
-<category><pattern>哇啦啦</pattern><template>呜哈哈</template></category>
-<category><pattern>拉拉链</pattern><template>你有毒哦</template></category>
+<category><pattern>乌拉拉</pattern><template>呱啦啦</template></category>
+<category><pattern>啪叽</pattern><template>呱嗒</template></category>
 </aiml>

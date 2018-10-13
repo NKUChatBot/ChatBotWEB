@@ -8,7 +8,7 @@ import marshal
 import pprint
 import re
 
-from constants import *
+from Apps.Daily.constants import *
 
 class PatternMgr:
     # special dictionary keys
