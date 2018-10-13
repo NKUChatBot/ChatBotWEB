@@ -2,7 +2,7 @@
 """该文件包含了到aiml模块的公共接口。"""
 
 from __future__ import print_function
-from aiml.LangSupport import splitChinese
+from Apps.aiml.LangSupport import splitChinese
 import copy
 import glob
 import os

@@ -49,7 +49,7 @@ def getUrl():
     if input_message == "q":
         return input_message
 
-if __name__=='__main__':
+def major(request):
     print("你好呀，我是可爱的南小开")
 
     print("我猜你想问：")
