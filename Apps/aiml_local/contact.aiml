@@ -1,0 +1,3433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="zh"/>
+
+<category>
+<pattern>学校办公室（党办、校办） 主任室</pattern>
+<template>小开告诉你联系方式：85358368 </template>
+</category>
+
+<category>
+<pattern>﻿学校办公室（党办、校办） 副主任室</pattern>
+<template>小开告诉你联系方式：85358732 85358701 85358381 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 秘书科</pattern>
+<template>小开告诉你联系方式：85358206 85358376 85358208(传真) </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 综合科</pattern>
+<template>小开告诉你联系方式：85358008 85358009 85358272 23508272 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 督查科</pattern>
+<template>小开告诉你联系方式：85358950 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 信息调研科</pattern>
+<template>小开告诉你联系方式：85358177 23501223 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 信访办公室</pattern>
+<template>小开告诉你联系方式：23506226 85358733 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 文印室</pattern>
+<template>小开告诉你联系方式：85358678 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 法律事物室</pattern>
+<template>小开告诉你联系方式：23501482 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 师生服务中心</pattern>
+<template>小开告诉你联系方式：85358890-26 23509950 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 驻深圳办事处</pattern>
+<template>小开告诉你联系方式：0755-26551995(传真) </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 八里台收发室</pattern>
+<template>小开告诉你联系方式：23508351 23508846 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 八里台服务楼物业室</pattern>
+<template>小开告诉你联系方式：23501283 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 津南业务东楼前台</pattern>
+<template>小开告诉你联系方式：85358283 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 津南业务西楼前台</pattern>
+<template>小开告诉你联系方式：85358284 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办） 津南总值班室</pattern>
+<template>小开告诉你联系方式：85358135 85358001 </template>
+</category>
+<category>
+<pattern>党委组织部、党校 部长室</pattern>
+<template>小开告诉你联系方式：85358858 </template>
+</category>
+<category>
+<pattern>党委组织部、党校 组织工作</pattern>
+<template>小开告诉你联系方式：85358197 23508197 </template>
+</category>
+<category>
+<pattern>党委组织部、党校 干部工作</pattern>
+<template>小开告诉你联系方式：85358752 23504858 23505752 </template>
+</category>
+<category>
+<pattern>党委组织部、党校 党校</pattern>
+<template>小开告诉你联系方式：23501782 </template>
+</category>
+<category>
+<pattern>党委宣传部（新闻中心） 办公室</pattern>
+<template>小开告诉你联系方式：85358735 23501326 </template>
+</category>
+<category>
+<pattern>党委宣传部（新闻中心）</pattern>
+<template>小开告诉你联系方式：85358326 23500735</template>
+</category>
+<category>
+<pattern>新闻中心 办公室</pattern>
+<template>小开告诉你联系方式：85358737 85358464 23508737(传真) </template>
+</category>
+<category>
+<pattern>新闻中心 《南开大学报》编辑部</pattern>
+<template>小开告诉你联系方式：23508464 23502561 </template>
+</category>
+<category>
+<pattern>新闻中心 电视台</pattern>
+<template>小开告诉你联系方式：85358458 85358382 </template>
+</category>
+<category>
+<pattern>新闻中心 23508458</pattern>
+<template>小开告诉你联系方式：23498382 </template>
+</category>
+<category>
+<pattern>新闻中心 校史研究室</pattern>
+<template>小开告诉你联系方式：23500273 </template>
+</category>
+<category>
+<pattern>党委统战部 办公室</pattern>
+<template>小开告诉你联系方式：23501319 23503848 </template>
+</category>
+<category>
+<pattern>机关党委 办公室</pattern>
+<template>小开告诉你联系方式：85358439 23501439 </template>
+</category>
+<category>
+<pattern>机关党委 书记室</pattern>
+<template>小开告诉你联系方式：23503848 </template>
+</category>
+<category>
+<pattern>机关党委 副书记室</pattern>
+<template>小开告诉你联系方式：85358863 </template>
+</category>
+<category>
+<pattern>纪委、监察室 纪委办公室</pattern>
+<template>小开告诉你联系方式：85358551(传真) 23500217 </template>
+</category>
+<category>
+<pattern>纪委、监察室 监察室</pattern>
+<template>小开告诉你联系方式：85358217 </template>
+</category>
+<category>
+<pattern>党委学生工作部 办公室</pattern>
+<template>小开告诉你联系方式：85358708 </template>
+</category>
+<category>
+<pattern>党委学生工作部 部长室</pattern>
+<template>小开告诉你联系方式：85358831 </template>
+</category>
+<category>
+<pattern>党委学生工作部 教育宣传科</pattern>
+<template>小开告诉你联系方式：85358102 </template>
+</category>
+<category>
+<pattern>党委学生工作部 学生事务管理科</pattern>
+<template>小开告诉你联系方式：85358189 </template>
+</category>
+<category>
+<pattern>党委学生工作部 辅导员基地办公室</pattern>
+<template>小开告诉你联系方式：85358713 </template>
+</category>
+<category>
+<pattern>党委学生工作部 招生办公室</pattern>
+<template>小开告诉你联系方式：23508545 23501669 </template>
+</category>
+<category>
+<pattern>党委学生工作部 学生就业指导中心</pattern>
+<template>小开告诉你联系方式：85358075 </template>
+</category>
+<category>
+<pattern>党委学生工作部 学生档案室</pattern>
+<template>小开告诉你联系方式：23499994 </template>
+</category>
+<category>
+<pattern>党委学生工作部 学生生活指导中心</pattern>
+<template>小开告诉你联系方式：85358562 </template>
+</category>
+<category>
+<pattern>党委学生工作部 心理健康指导中心</pattern>
+<template>小开告诉你联系方式：85358432 23503142 </template>
+</category>
+<category>
+<pattern>党委学生工作部 艺术教育指导中心</pattern>
+<template>小开告诉你联系方式：23501000 </template>
+</category>
+<category>
+<pattern>党委学生工作部 八里台校区值班室</pattern>
+<template>小开告诉你联系方式：23494848 23501679 23509409 </template>
+</category>
+<category>
+<pattern>党委学生工作部 武装部</pattern>
+<template>小开告诉你联系方式：83662581 </template>
+</category>
+<category>
+<pattern>党委研究生工作部 部长室</pattern>
+<template>小开告诉你联系方式：85358725 </template>
+</category>
+<category>
+<pattern>党委研究生工作部 副部长室</pattern>
+<template>小开告诉你联系方式：85358145 </template>
+</category>
+<category>
+<pattern>党委研究生工作部 教育宣传科</pattern>
+<template>小开告诉你联系方式：85358615 23500115 </template>
+</category>
+<category>
+<pattern>党委研究生工作部 事务管理科</pattern>
+<template>小开告诉你联系方式：85358946 23508946 </template>
+</category>
+<category>
+<pattern>教代会、工会 综合办公室</pattern>
+<template>小开告诉你联系方式：23508459 85358513 </template>
+</category>
+<category>
+<pattern>教代会、工会 主席室</pattern>
+<template>小开告诉你联系方式：23501501 </template>
+</category>
+<category>
+<pattern>教代会、工会 教代会办公室</pattern>
+<template>小开告诉你联系方式：23509445 </template>
+</category>
+<category>
+<pattern>教代会、工会 财务室</pattern>
+<template>小开告诉你联系方式：23503629 </template>
+</category>
+<category>
+<pattern>团 委</pattern>
+<template>小开告诉你联系方式：办公室 85358462 85358452 23508462 </template>
+</category>
+<category>
+<pattern>团 委</pattern>
+<template>小开告诉你联系方式：书记室 85358653 </template>
+</category>
+<category>
+<pattern>团 委</pattern>
+<template>小开告诉你联系方式：副书记室 85358746 85358747 </template>
+</category>
+<category>
+<pattern>保密办公室 办公室</pattern>
+<template>小开告诉你联系方式：85358965 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） 综合办公室</pattern>
+<template>小开告诉你联系方式：23502992 23503694 23508367 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） 常务副院长室</pattern>
+<template>小开告诉你联系方式：85358051 23506051 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） 招生办公室</pattern>
+<template>小开告诉你联系方式：23505940 23502121 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） 培养办公室</pattern>
+<template>小开告诉你联系方式：85358024 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） （培养科）</pattern>
+<template>小开告诉你联系方式：23499530 85358893 23508893 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） （学籍科）</pattern>
+<template>小开告诉你联系方式：23506052 85358548 23502548 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） （研究生国际交流科）</pattern>
+<template>小开告诉你联系方式：23502548 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） （学科建设科）</pattern>
+<template>小开告诉你联系方式：23505316 23500744 23504510 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） （学位管理科）</pattern>
+<template>小开告诉你联系方式：23500470 23503320 23503624 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） 专业学位办公室</pattern>
+<template>小开告诉你联系方式：85358031 85358939 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） 23500031</pattern>
+<template>小开告诉你联系方式：23503452 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部） 教育管理办公室</pattern>
+<template>小开告诉你联系方式：85358145 </template>
+</category>
+<category>
+<pattern>人事处 处长室</pattern>
+<template>小开告诉你联系方式：85358287 </template>
+</category>
+<category>
+<pattern>人事处 副处长室</pattern>
+<template>小开告诉你联系方式：85358446 </template>
+</category>
+<category>
+<pattern>人事处 校学术委员会和校学风建设委员会办公室</pattern>
+<template>小开告诉你联系方式：85358598 </template>
+</category>
+<category>
+<pattern>人事处 博士后管理工作办公室</pattern>
+<template>小开告诉你联系方式：85358586 </template>
+</category>
+<category>
+<pattern>人事处 高级人才管理科</pattern>
+<template>小开告诉你联系方式：85358595 </template>
+</category>
+<category>
+<pattern>人事处 专业技术人员管理科</pattern>
+<template>小开告诉你联系方式：85358620 85358163 </template>
+</category>
+<category>
+<pattern>人事处 流动调配科</pattern>
+<template>小开告诉你联系方式：85358215 85358178 </template>
+</category>
+<category>
+<pattern>人事处 工资福利科</pattern>
+<template>小开告诉你联系方式：85358076 85358597 </template>
+</category>
+<category>
+<pattern>人事处 档案室</pattern>
+<template>小开告诉你联系方式：23508539 </template>
+</category>
+<category>
+<pattern>人事处 八里台校区值班室</pattern>
+<template>小开告诉你联系方式：23501215 23508595 </template>
+</category>
+<category>
+<pattern>人事处 医疗保险办公室</pattern>
+<template>小开告诉你联系方式：85358890(转医保办) 23506920 23500106 23507262 </template>
+</category>
+<category>
+<pattern>教务处 处长室</pattern>
+<template>小开告诉你联系方式：85358230 85358594 </template>
+</category>
+<category>
+<pattern>教务处 副处长室</pattern>
+<template>小开告诉你联系方式：23501639 85358350 </template>
+</category>
+<category>
+<pattern>教务处 教务行政科</pattern>
+<template>小开告诉你联系方式：85358424 </template>
+</category>
+<category>
+<pattern>教务处 教学管理科</pattern>
+<template>小开告诉你联系方式：85358600 </template>
+</category>
+<category>
+<pattern>教务处 教学研究科</pattern>
+<template>小开告诉你联系方式：85358492 </template>
+</category>
+<category>
+<pattern>教务处 本科教学质量监督评价中心</pattern>
+<template>小开告诉你联系方式：85358252 85358150 23503595（秘书） </template>
+</category>
+<category>
+<pattern>教务处 实验与实践教学科</pattern>
+<template>小开告诉你联系方式：85358541 </template>
+</category>
+<category>
+<pattern>教务处 教材中心</pattern>
+<template>小开告诉你联系方式：23501582 23504679 </template>
+</category>
+<category>
+<pattern>教务处 八里台校区值班室</pattern>
+<template>小开告诉你联系方式：23509006 23508600 23509424 </template>
+</category>
+<category>
+<pattern>战略发展部 办公室</pattern>
+<template>小开告诉你联系方式：85358214 85358584 </template>
+</category>
+<category>
+<pattern>战略发展部 23507136</pattern>
+<template>小开告诉你联系方式：23503584 </template>
+</category>
+<category>
+<pattern>战略发展部 部长室</pattern>
+<template>小开告诉你联系方式：85358996 23508214 </template>
+</category>
+<category>
+<pattern>战略发展部 副部长室</pattern>
+<template>小开告诉你联系方式：85358136 </template>
+</category>
+<category>
+<pattern>科学技术处 综合办公室</pattern>
+<template>小开告诉你联系方式：85358404 </template>
+</category>
+<category>
+<pattern>科学技术处 处长办公室</pattern>
+<template>小开告诉你联系方式：83858626 </template>
+</category>
+<category>
+<pattern>科学技术处 副处长办公室</pattern>
+<template>小开告诉你联系方式：85358860 </template>
+</category>
+<category>
+<pattern>科学技术处 项目管理科</pattern>
+<template>小开告诉你联系方式：85358853 85358247 85358838 </template>
+</category>
+<category>
+<pattern>科学技术处 重大项目培育办公室</pattern>
+<template>小开告诉你联系方式：85358853 </template>
+</category>
+<category>
+<pattern>科学技术处 基地建设科</pattern>
+<template>小开告诉你联系方式：85358247 </template>
+</category>
+<category>
+<pattern>科学技术处 成果管理科</pattern>
+<template>小开告诉你联系方式：85358852 85358853 </template>
+</category>
+<category>
+<pattern>科学技术处 技术开发科</pattern>
+<template>小开告诉你联系方式：85358838 </template>
+</category>
+<category>
+<pattern>科学技术处 专利与知识产权办公室</pattern>
+<template>小开告诉你联系方式：85358261 23502961 </template>
+</category>
+<category>
+<pattern>科学技术处 军工办公室</pattern>
+<template>小开告诉你联系方式：85358853 </template>
+</category>
+<category>
+<pattern>社会科学研究管理处 处长室</pattern>
+<template>小开告诉你联系方式：85358967 </template>
+</category>
+<category>
+<pattern>社会科学研究管理处 副处长室</pattern>
+<template>小开告诉你联系方式：85358426 </template>
+</category>
+<category>
+<pattern>社会科学研究管理处 项目管理科</pattern>
+<template>小开告诉你联系方式：23502426 </template>
+</category>
+<category>
+<pattern>社会科学研究管理处 办公室及档案统计科</pattern>
+<template>小开告诉你联系方式：85358751 </template>
+</category>
+<category>
+<pattern>社会科学研究管理处 成果与基地管理科</pattern>
+<template>小开告诉你联系方式：85358751 23503554（传真） </template>
+</category>
+<category>
+<pattern>社会科学研究管理处 八里台校区值班</pattern>
+<template>小开告诉你联系方式：23500751 </template>
+</category>
+<category>
+<pattern>国际学术交流处 综合办公室</pattern>
+<template>小开告诉你联系方式：23508229 83662827 23507848（财务） 23504975（传真） </template>
+</category>
+<category>
+<pattern>国际学术交流处 处长室</pattern>
+<template>小开告诉你联系方式：23498120 </template>
+</category>
+<category>
+<pattern>国际学术交流处 副处长室</pattern>
+<template>小开告诉你联系方式：23503294 23508771 23508684 </template>
+</category>
+<category>
+<pattern>国际学术交流处 交流科</pattern>
+<template>小开告诉你联系方式：23508632 23503481（传真） </template>
+</category>
+<category>
+<pattern>国际学术交流处 留学生科</pattern>
+<template>小开告诉你联系方式：23508686 23508825 23509646（传真） </template>
+</category>
+<category>
+<pattern>国际学术交流处 派出科</pattern>
+<template>小开告诉你联系方式：23503946 23502547 23502990（传真） </template>
+</category>
+<category>
+<pattern>国际学术交流处 专家科</pattern>
+<template>小开告诉你联系方式：23501487 23508312（传真） </template>
+</category>
+<category>
+<pattern>国际学术交流处 会计室</pattern>
+<template>小开告诉你联系方式：23507848 23501398 </template>
+</category>
+<category>
+<pattern>港澳台事务办公室 办公室</pattern>
+<template>小开告诉你联系方式：23508632 23503481（传真） </template>
+</category>
+<category>
+<pattern>孔子学院工作办公室 办公室</pattern>
+<template>小开告诉你联系方式：23506952 23501487（传真） </template>
+</category>
+<category>
+<pattern>科学成果转化中心 办公室</pattern>
+<template>小开告诉你联系方式：85358186 23500186 </template>
+</category>
+<category>
+<pattern>中国哲学社会科学管理创新研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23500531 23508967 </template>
+</category>
+<category>
+<pattern>财务处 处长室</pattern>
+<template>小开告诉你联系方式：85358073 23500073 </template>
+</category>
+<category>
+<pattern>财务处 副处长室</pattern>
+<template>小开告诉你联系方式：85358606 23500073 23508606 </template>
+</category>
+<category>
+<pattern>财务处 审核科（报账大厅）</pattern>
+<template>小开告诉你联系方式：85358196 23508427 23501576 </template>
+</category>
+<category>
+<pattern>财务处 专项科</pattern>
+<template>小开告诉你联系方式：85358883 23503945 </template>
+</category>
+<category>
+<pattern>财务处 预算科</pattern>
+<template>小开告诉你联系方式：85358883 </template>
+</category>
+<category>
+<pattern>财务处 管理科</pattern>
+<template>小开告诉你联系方式：85358712 23508722 </template>
+</category>
+<category>
+<pattern>财务处 会计科</pattern>
+<template>小开告诉你联系方式：23508937 </template>
+</category>
+<category>
+<pattern>财务处 会计事务管理科</pattern>
+<template>小开告诉你联系方式：23502196 </template>
+</category>
+<category>
+<pattern>财务处 科研经费管理科</pattern>
+<template>小开告诉你联系方式：85358945 23503945 </template>
+</category>
+<category>
+<pattern>财务处 注册中心</pattern>
+<template>小开告诉你联系方式：85358670 23507128 </template>
+</category>
+<category>
+<pattern>财务处 基金科</pattern>
+<template>小开告诉你联系方式：23508354 23503883 </template>
+</category>
+<category>
+<pattern>财务处 国有资产管理委员会办公室</pattern>
+<template>小开告诉你联系方式：85358607 </template>
+</category>
+<category>
+<pattern>审计处 处长办公室</pattern>
+<template>小开告诉你联系方式：23502915 </template>
+</category>
+<category>
+<pattern>审计处 副处长办公室</pattern>
+<template>小开告诉你联系方式：88973118 </template>
+</category>
+<category>
+<pattern>审计处 财务审计科</pattern>
+<template>小开告诉你联系方式：88973237 </template>
+</category>
+<category>
+<pattern>审计处 工程审计科</pattern>
+<template>小开告诉你联系方式：23502306 </template>
+</category>
+<category>
+<pattern>审计处 八里台校区值班室</pattern>
+<template>小开告诉你联系方式：23503580 </template>
+</category>
+<category>
+<pattern>保卫处 办公室</pattern>
+<template>小开告诉你联系方式：85358257 23508337 </template>
+</category>
+<category>
+<pattern>保卫处 （值班室）</pattern>
+<template>小开告诉你联系方式：85358122 23508538 23508122 </template>
+</category>
+<category>
+<pattern>保卫处 处长室</pattern>
+<template>小开告诉你联系方式：85358537（津南） 23508537（八里台） </template>
+</category>
+<category>
+<pattern>保卫处 副处长室</pattern>
+<template>小开告诉你联系方式：85358736 23508642 </template>
+</category>
+<category>
+<pattern>保卫处 综合治理办公室</pattern>
+<template>小开告诉你联系方式：23508337 </template>
+</category>
+<category>
+<pattern>保卫处 政保科</pattern>
+<template>小开告诉你联系方式：85358337 23504221 </template>
+</category>
+<category>
+<pattern>保卫处 安全科</pattern>
+<template>小开告诉你联系方式：85358808 23508808 </template>
+</category>
+<category>
+<pattern>保卫处 治安科</pattern>
+<template>小开告诉你联系方式：85358331 23507785 23505331 </template>
+</category>
+<category>
+<pattern>保卫处 （监控室）</pattern>
+<template>小开告诉你联系方式：85358962 23508962 </template>
+</category>
+<category>
+<pattern>保卫处 （八里台东门）</pattern>
+<template>小开告诉你联系方式：23508219 </template>
+</category>
+<category>
+<pattern>保卫处 （八里台西南门）</pattern>
+<template>小开告诉你联系方式：23508262 </template>
+</category>
+<category>
+<pattern>保卫处 （八里台西门）</pattern>
+<template>小开告诉你联系方式：23508181 </template>
+</category>
+<category>
+<pattern>保卫处 （津南东门）</pattern>
+<template>小开告诉你联系方式：85358589 </template>
+</category>
+<category>
+<pattern>保卫处 （津南西门）</pattern>
+<template>小开告诉你联系方式：85358226 </template>
+</category>
+<category>
+<pattern>保卫处 （津南南门）</pattern>
+<template>小开告诉你联系方式：85358210 </template>
+</category>
+<category>
+<pattern>保卫处 （津南西北门）</pattern>
+<template>小开告诉你联系方式：85358292 </template>
+</category>
+<category>
+<pattern>保卫处 （津南北门）</pattern>
+<template>小开告诉你联系方式：85358869 </template>
+</category>
+<category>
+<pattern>实验室设备处 办公室</pattern>
+<template>小开告诉你联系方式：85358580 23508120 </template>
+</category>
+<category>
+<pattern>实验室设备处 处长室</pattern>
+<template>小开告诉你联系方式：85358581 23501581 </template>
+</category>
+<category>
+<pattern>实验室设备处 副处长室</pattern>
+<template>小开告诉你联系方式：85358582 23501665 23502666 </template>
+</category>
+<category>
+<pattern>实验室设备处 设备供应科</pattern>
+<template>小开告诉你联系方式：85358579 23501558 23501567 </template>
+</category>
+<category>
+<pattern>实验室设备处 引进科</pattern>
+<template>小开告诉你联系方式：85358580 23504872 </template>
+</category>
+<category>
+<pattern>实验室设备处 设备管理科</pattern>
+<template>小开告诉你联系方式：85358575 23503143 23508813 </template>
+</category>
+<category>
+<pattern>实验室设备处 家具管理科</pattern>
+<template>小开告诉你联系方式：85358580 23508120 </template>
+</category>
+<category>
+<pattern>实验室设备处 实验室科</pattern>
+<template>小开告诉你联系方式：85358119 23508227 23508009 </template>
+</category>
+<category>
+<pattern>实验室设备处 技术安全科</pattern>
+<template>小开告诉你联系方式：85358119 23508119 </template>
+</category>
+<category>
+<pattern>实验室设备处 会计室</pattern>
+<template>小开告诉你联系方式：23508815 </template>
+</category>
+<category>
+<pattern>实验室设备处 综合实验楼值班室</pattern>
+<template>小开告诉你联系方式：23502784 </template>
+</category>
+<category>
+<pattern>招投标管理办公室 主任室</pattern>
+<template>小开告诉你联系方式：23506310 </template>
+</category>
+<category>
+<pattern>招投标管理办公室 综合管理科</pattern>
+<template>小开告诉你联系方式：23509833 </template>
+</category>
+<category>
+<pattern>招投标管理办公室 建设工程招标管理科</pattern>
+<template>小开告诉你联系方式：23508050 </template>
+</category>
+<category>
+<pattern>招投标管理办公室 仪器设备招标管理科</pattern>
+<template>小开告诉你联系方式：23501661 23506983 </template>
+</category>
+<category>
+<pattern>招投标管理办公室 财务室</pattern>
+<template>小开告诉你联系方式：23507885 </template>
+</category>
+<category>
+<pattern>离退休人员管理处 处长室</pattern>
+<template>小开告诉你联系方式：23509731（北村） </template>
+</category>
+<category>
+<pattern>离退休人员管理处 副处长室</pattern>
+<template>小开告诉你联系方式：23500731（北村） </template>
+</category>
+<category>
+<pattern>离退休人员管理处 综合科</pattern>
+<template>小开告诉你联系方式：23501363（北村） </template>
+</category>
+<category>
+<pattern>离退休人员管理处 退休科</pattern>
+<template>小开告诉你联系方式：23507937（西南村） </template>
+</category>
+<category>
+<pattern>离退休人员管理处 党委秘书室</pattern>
+<template>小开告诉你联系方式：23508681（西南村） </template>
+</category>
+<category>
+<pattern>发展委员会办公室 办公室</pattern>
+<template>小开告诉你联系方式：23500388 23500361（传真） </template>
+</category>
+<category>
+<pattern>校友工作办公室 办公室</pattern>
+<template>小开告诉你联系方式：23501887 23509600 </template>
+</category>
+<category>
+<pattern>校友工作办公室 主任室</pattern>
+<template>小开告诉你联系方式：85358639 23505068 </template>
+</category>
+<category>
+<pattern>校友工作办公室 副主任室</pattern>
+<template>小开告诉你联系方式：23509665 </template>
+</category>
+<category>
+<pattern>校产管理办公室 办公室</pattern>
+<template>小开告诉你联系方式：23506928 23507839 </template>
+</category>
+<category>
+<pattern>信息化建设与管理办公室 行政办公室</pattern>
+<template>小开告诉你联系方式：23506189 85358321 </template>
+</category>
+<category>
+<pattern>信息化建设与管理办公室 主任室</pattern>
+<template>小开告诉你联系方式：23503657 </template>
+</category>
+<category>
+<pattern>信息化建设与管理办公室 网络科</pattern>
+<template>小开告诉你联系方式：85358000 23509599 </template>
+</category>
+<category>
+<pattern>信息化建设与管理办公室 信息科</pattern>
+<template>小开告诉你联系方式：85358000 23509412 </template>
+</category>
+<category>
+<pattern>信息化建设与管理办公室 服务中心</pattern>
+<template>小开告诉你联系方式：85358890（转16） 23508231 </template>
+</category>
+<category>
+<pattern>信息化建设与管理办公室 网络维修</pattern>
+<template>小开告诉你联系方式：85358001 23503656 23503634 </template>
+</category>
+<category>
+<pattern>后勤保障部 综合办公室</pattern>
+<template>小开告诉你联系方式：88973116 23506981 </template>
+</category>
+<category>
+<pattern>后勤保障部 项目管理办公室</pattern>
+<template>小开告诉你联系方式：23503540 </template>
+</category>
+<category>
+<pattern>后勤保障部 设计办公室</pattern>
+<template>小开告诉你联系方式：23505249 </template>
+</category>
+<category>
+<pattern>后勤保障部 节能办公室</pattern>
+<template>小开告诉你联系方式：23502600 </template>
+</category>
+<category>
+<pattern>后勤保障部 能源管理中心电力科</pattern>
+<template>小开告诉你联系方式：23505584 23508015 </template>
+</category>
+<category>
+<pattern>后勤保障部 能源管理中心水暖空调科</pattern>
+<template>小开告诉你联系方式：23498146 </template>
+</category>
+<category>
+<pattern>后勤保障部 工程维修中心维修科</pattern>
+<template>小开告诉你联系方式：23508913 </template>
+</category>
+<category>
+<pattern>后勤保障部 工程维修中心工程科</pattern>
+<template>小开告诉你联系方式：23501355 </template>
+</category>
+<category>
+<pattern>后勤保障部 物业管理中心(八里台)</pattern>
+<template>小开告诉你联系方式：23509336 </template>
+</category>
+<category>
+<pattern>后勤保障部 物业管理中心(津南)</pattern>
+<template>小开告诉你联系方式：88973066 </template>
+</category>
+<category>
+<pattern>后勤保障部 校园环境管理中心</pattern>
+<template>小开告诉你联系方式：23508324 </template>
+</category>
+<category>
+<pattern>后勤保障部 商贸中心</pattern>
+<template>小开告诉你联系方式：23508761 </template>
+</category>
+<category>
+<pattern>基建规划处 办公室</pattern>
+<template>小开告诉你联系方式：23498761（传真） </template>
+</category>
+<category>
+<pattern>基建规划处 处长室</pattern>
+<template>小开告诉你联系方式：88973086 23503708 </template>
+</category>
+<category>
+<pattern>基建规划处 副处长室</pattern>
+<template>小开告诉你联系方式：23502130 </template>
+</category>
+<category>
+<pattern>基建规划处 计划财务科</pattern>
+<template>小开告诉你联系方式：23508235 88973087（财务） </template>
+</category>
+<category>
+<pattern>基建规划处 项目管理科</pattern>
+<template>小开告诉你联系方式：23509536 </template>
+</category>
+<category>
+<pattern>基建规划处 工程管理科</pattern>
+<template>小开告诉你联系方式：23508396 </template>
+</category>
+<category>
+<pattern>房产管理处 处长室</pattern>
+<template>小开告诉你联系方式：23508205 </template>
+</category>
+<category>
+<pattern>房产管理处 副处长室</pattern>
+<template>小开告诉你联系方式：23502884 </template>
+</category>
+<category>
+<pattern>房产管理处 综合管理科</pattern>
+<template>小开告诉你联系方式：23503512（传真） </template>
+</category>
+<category>
+<pattern>房产管理处 公房管理科</pattern>
+<template>小开告诉你联系方式：23506823 23508370 </template>
+</category>
+<category>
+<pattern>房产管理处 住宅管理科</pattern>
+<template>小开告诉你联系方式：23508682 23508570 </template>
+</category>
+<category>
+<pattern>房产管理处 周转房管理科</pattern>
+<template>小开告诉你联系方式：85358832 23498306 </template>
+</category>
+<category>
+<pattern>档案工作办公室 主任室</pattern>
+<template>小开告诉你联系方式：23508095 </template>
+</category>
+<category>
+<pattern>档案工作办公室 保管利用科</pattern>
+<template>小开告诉你联系方式：23508756 </template>
+</category>
+<category>
+<pattern>档案工作办公室 收集指导科</pattern>
+<template>小开告诉你联系方式：23505129 </template>
+</category>
+<category>
+<pattern>档案工作办公室 电子档案与技术服务科</pattern>
+<template>小开告诉你联系方式：23501300 </template>
+</category>
+<category>
+<pattern>档案工作办公室 值班室</pattern>
+<template>小开告诉你联系方式：23498013 </template>
+</category>
+<category>
+<pattern>文学院 院办公室</pattern>
+<template>小开告诉你联系方式：23508247 / 23507755（传真） </template>
+</category>
+<category>
+<pattern>文学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23508441 </template>
+</category>
+<category>
+<pattern>文学院 院长室</pattern>
+<template>小开告诉你联系方式：23503839 </template>
+</category>
+<category>
+<pattern>文学院 书记室</pattern>
+<template>小开告诉你联系方式：23509181 </template>
+</category>
+<category>
+<pattern>文学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：23507837 </template>
+</category>
+<category>
+<pattern>文学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23501368 </template>
+</category>
+<category>
+<pattern>文学院 研究生办公室</pattern>
+<template>小开告诉你联系方式：23508110 </template>
+</category>
+<category>
+<pattern>文学院 图书资料中心</pattern>
+<template>小开告诉你联系方式：23503837 </template>
+</category>
+<category>
+<pattern>文学院 文学实验教学中心</pattern>
+<template>小开告诉你联系方式：23499264 </template>
+</category>
+<category>
+<pattern>文学院 中国语言文学系</pattern>
+<template>小开告诉你联系方式：23508247 </template>
+</category>
+<category>
+<pattern>文学院 传播学系</pattern>
+<template>小开告诉你联系方式：23498255 </template>
+</category>
+<category>
+<pattern>文学院 东方艺术系</pattern>
+<template>小开告诉你联系方式：23508734 </template>
+</category>
+<category>
+<pattern>文学院 艺术设计系</pattern>
+<template>小开告诉你联系方式：23499334 </template>
+</category>
+<category>
+<pattern>文学院 文化素质教学部</pattern>
+<template>小开告诉你联系方式：23507853 </template>
+</category>
+<category>
+<pattern>文学院 中华古典文化研究所</pattern>
+<template>小开告诉你联系方式：23509662 </template>
+</category>
+<category>
+<pattern>文学院 迦陵学舍值班室</pattern>
+<template>小开告诉你联系方式：83661961 </template>
+</category>
+<category>
+<pattern>历史学院 行政办公室</pattern>
+<template>小开告诉你联系方式：23501637 23504726 </template>
+</category>
+<category>
+<pattern>历史学院 院长室</pattern>
+<template>小开告诉你联系方式：23506501 </template>
+</category>
+<category>
+<pattern>历史学院 书记室</pattern>
+<template>小开告诉你联系方式：23508326 </template>
+</category>
+<category>
+<pattern>历史学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：23508087 </template>
+</category>
+<category>
+<pattern>历史学院 本科教学副院长室</pattern>
+<template>小开告诉你联系方式：23503309 </template>
+</category>
+<category>
+<pattern>历史学院 研究生教学副院长室</pattern>
+<template>小开告诉你联系方式：23502401 </template>
+</category>
+<category>
+<pattern>历史学院 科研副院长室</pattern>
+<template>小开告诉你联系方式：23501133 </template>
+</category>
+<category>
+<pattern>历史学院 副书记室</pattern>
+<template>小开告诉你联系方式：23505296 </template>
+</category>
+<category>
+<pattern>历史学院 党务、人事办公室</pattern>
+<template>小开告诉你联系方式：85358668 </template>
+</category>
+<category>
+<pattern>历史学院 团委</pattern>
+<template>小开告诉你联系方式：23504337 </template>
+</category>
+<category>
+<pattern>历史学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23508422 85358998 </template>
+</category>
+<category>
+<pattern>历史学院 研究生教学办公室</pattern>
+<template>小开告诉你联系方式：23509128 </template>
+</category>
+<category>
+<pattern>历史学院 古籍与文化研究所</pattern>
+<template>小开告诉你联系方式：23504306 </template>
+</category>
+<category>
+<pattern>历史学院 世界近现代史研究中心</pattern>
+<template>小开告诉你联系方式：83662692 </template>
+</category>
+<category>
+<pattern>历史学院 物业室</pattern>
+<template>小开告诉你联系方式：85358768 </template>
+</category>
+<category>
+<pattern>哲学院 行政办公室</pattern>
+<template>小开告诉你联系方式：85358298 </template>
+</category>
+<category>
+<pattern>哲学院 院长工作室</pattern>
+<template>小开告诉你联系方式：85358358 </template>
+</category>
+<category>
+<pattern>哲学院 书记室</pattern>
+<template>小开告诉你联系方式：85358618 </template>
+</category>
+<category>
+<pattern>哲学院 副院长室</pattern>
+<template>小开告诉你联系方式：23501598 / 85358358 </template>
+</category>
+<category>
+<pattern>哲学院 副书记室</pattern>
+<template>小开告诉你联系方式：85358638 </template>
+</category>
+<category>
+<pattern>哲学院 学工办</pattern>
+<template>小开告诉你联系方式：85358515 </template>
+</category>
+<category>
+<pattern>哲学院 教学办公室</pattern>
+<template>小开告诉你联系方式：23508268 </template>
+</category>
+<category>
+<pattern>哲学院 资料中心</pattern>
+<template>小开告诉你联系方式：85358018 </template>
+</category>
+<category>
+<pattern>哲学院 物业室</pattern>
+<template>小开告诉你联系方式：85358155 </template>
+</category>
+<category>
+<pattern>哲学院 当代中国问题研究院</pattern>
+<template>小开告诉你联系方式：23508860 23508685 </template>
+</category>
+<category>
+<pattern>外国语学院 院办公室</pattern>
+<template>小开告诉你联系方式：23508528 23508428 </template>
+</category>
+<category>
+<pattern>外国语学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23505270 </template>
+</category>
+<category>
+<pattern>外国语学院 院长室</pattern>
+<template>小开告诉你联系方式：23508319 </template>
+</category>
+<category>
+<pattern>外国语学院 书记室</pattern>
+<template>小开告诉你联系方式：23500498 </template>
+</category>
+<category>
+<pattern>外国语学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：23500497 </template>
+</category>
+<category>
+<pattern>外国语学院 教学副院长室</pattern>
+<template>小开告诉你联系方式：23506012 </template>
+</category>
+<category>
+<pattern>外国语学院 副院长室（公英部主任）</pattern>
+<template>小开告诉你联系方式：23506095 </template>
+</category>
+<category>
+<pattern>外国语学院 副书记室</pattern>
+<template>小开告诉你联系方式：23508230 </template>
+</category>
+<category>
+<pattern>外国语学院 团委</pattern>
+<template>小开告诉你联系方式：23501542 23506408 </template>
+</category>
+<category>
+<pattern>外国语学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23503695 </template>
+</category>
+<category>
+<pattern>外国语学院 研究生办公室</pattern>
+<template>小开告诉你联系方式：23506153 </template>
+</category>
+<category>
+<pattern>外国语学院 MTI办公室</pattern>
+<template>小开告诉你联系方式：23509365 </template>
+</category>
+<category>
+<pattern>外国语学院 国际化发展办公室</pattern>
+<template>小开告诉你联系方式：23505735 </template>
+</category>
+<category>
+<pattern>外国语学院 资料中心</pattern>
+<template>小开告诉你联系方式：23500079 </template>
+</category>
+<category>
+<pattern>外国语学院 电教中心</pattern>
+<template>小开告诉你联系方式：23508213 </template>
+</category>
+<category>
+<pattern>外国语学院 财务室</pattern>
+<template>小开告诉你联系方式：23506832 </template>
+</category>
+<category>
+<pattern>外国语学院 外语考试中心</pattern>
+<template>小开告诉你联系方式：23503696 </template>
+</category>
+<category>
+<pattern>外国语学院 英语系</pattern>
+<template>小开告诉你联系方式：23509292 </template>
+</category>
+<category>
+<pattern>外国语学院 日语系</pattern>
+<template>小开告诉你联系方式：23507732 </template>
+</category>
+<category>
+<pattern>外国语学院 俄语系</pattern>
+<template>小开告诉你联系方式：23509296 </template>
+</category>
+<category>
+<pattern>外国语学院 法语系</pattern>
+<template>小开告诉你联系方式：23509619 </template>
+</category>
+<category>
+<pattern>外国语学院 德语系</pattern>
+<template>小开告诉你联系方式：23504820 </template>
+</category>
+<category>
+<pattern>外国语学院 西葡意语系</pattern>
+<template>小开告诉你联系方式：23503813 </template>
+</category>
+<category>
+<pattern>外国语学院 翻译系</pattern>
+<template>小开告诉你联系方式：23498730 </template>
+</category>
+<category>
+<pattern>公共英语教学部 办公室</pattern>
+<template>小开告诉你联系方式：23501476 23502551 </template>
+</category>
+<category>
+<pattern>公共英语教学部 党支部</pattern>
+<template>小开告诉你联系方式：23508236 </template>
+</category>
+<category>
+<pattern>公共英语教学部 教学办公室</pattern>
+<template>小开告诉你联系方式：23498680 </template>
+</category>
+<category>
+<pattern>法学院 行政办公室</pattern>
+<template>小开告诉你联系方式：23501400 / 23498141 </template>
+</category>
+<category>
+<pattern>法学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23508183 </template>
+</category>
+<category>
+<pattern>法学院 院长室</pattern>
+<template>小开告诉你联系方式：23500364 </template>
+</category>
+<category>
+<pattern>法学院 书记室</pattern>
+<template>小开告诉你联系方式：23501090 </template>
+</category>
+<category>
+<pattern>法学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：23498007 </template>
+</category>
+<category>
+<pattern>法学院 本科教学副院长室</pattern>
+<template>小开告诉你联系方式：23508357 </template>
+</category>
+<category>
+<pattern>法学院 研究生教学副院长室</pattern>
+<template>小开告诉你联系方式：23508164 </template>
+</category>
+<category>
+<pattern>法学院 科研副院长室</pattern>
+<template>小开告诉你联系方式：23505690 </template>
+</category>
+<category>
+<pattern>法学院 副书记室</pattern>
+<template>小开告诉你联系方式：85358611 </template>
+</category>
+<category>
+<pattern>法学院 团委</pattern>
+<template>小开告诉你联系方式：23501186（本科生） 23500139（研究生） </template>
+</category>
+<category>
+<pattern>法学院 本科生办公室</pattern>
+<template>小开告诉你联系方式：23505573 </template>
+</category>
+<category>
+<pattern>法学院 科研、研究生办公室</pattern>
+<template>小开告诉你联系方式：23507816 </template>
+</category>
+<category>
+<pattern>法学院 会计室</pattern>
+<template>小开告诉你联系方式：23509576 </template>
+</category>
+<category>
+<pattern>法学院 法律硕士教育中心</pattern>
+<template>小开告诉你联系方式：23500694 23501971 </template>
+</category>
+<category>
+<pattern>法学院 资料中心</pattern>
+<template>小开告诉你联系方式：23505718 23502524 </template>
+</category>
+<category>
+<pattern>法学院 高端教育培训中心</pattern>
+<template>小开告诉你联系方式：23509263 23509273 </template>
+</category>
+<category>
+<pattern>法学院 物业室</pattern>
+<template>小开告诉你联系方式：85358399 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 行政办公室</pattern>
+<template>小开告诉你联系方式：23500327 / 23498602 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23508793 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 院长室</pattern>
+<template>小开告诉你联系方式：23506398 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 书记室</pattern>
+<template>小开告诉你联系方式：23498762 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：23500155 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 副书记室</pattern>
+<template>小开告诉你联系方式：85358236 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：23508444 23498271 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 本科教学办公室</pattern>
+<template>小开告诉你联系方式：23508391 85358391 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 研究生教学办公室</pattern>
+<template>小开告诉你联系方式：23501592 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 专业学位办公室</pattern>
+<template>小开告诉你联系方式：23498933 23498291 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 资料室、收发室</pattern>
+<template>小开告诉你联系方式：23498779 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 培训中心</pattern>
+<template>小开告诉你联系方式：85358385 23506385 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 亚洲研究中心</pattern>
+<template>小开告诉你联系方式：23498650 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 人权研究中心</pattern>
+<template>小开告诉你联系方式：23501318 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 中国政府与政策研究中心</pattern>
+<template>小开告诉你联系方式：23509389 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 社会建设与管理研究院</pattern>
+<template>小开告诉你联系方式：23500245 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院 物业室</pattern>
+<template>小开告诉你联系方式：85358559 </template>
+</category>
+<category>
+<pattern>马克思主义学院 院办公室</pattern>
+<template>小开告诉你联系方式：85358128 23508201 23502579 </template>
+</category>
+<category>
+<pattern>马克思主义学院 党委办公室</pattern>
+<template>小开告诉你联系方式：85358156 </template>
+</category>
+<category>
+<pattern>马克思主义学院 院长室</pattern>
+<template>小开告诉你联系方式：23503532 </template>
+</category>
+<category>
+<pattern>马克思主义学院 书记室</pattern>
+<template>小开告诉你联系方式：23503611 </template>
+</category>
+<category>
+<pattern>马克思主义学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：23507985 </template>
+</category>
+<category>
+<pattern>马克思主义学院 教学副院长室</pattern>
+<template>小开告诉你联系方式：85358195 </template>
+</category>
+<category>
+<pattern>马克思主义学院 副书记室</pattern>
+<template>小开告诉你联系方式：23508804 </template>
+</category>
+<category>
+<pattern>马克思主义学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：23500739 </template>
+</category>
+<category>
+<pattern>马克思主义学院 物业室</pattern>
+<template>小开告诉你联系方式：85358811 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 院办公室</pattern>
+<template>小开告诉你联系方式：23505902 / 23500182 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 院长室</pattern>
+<template>小开告诉你联系方式：23507738 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 书记室</pattern>
+<template>小开告诉你联系方式：23498385 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：23500182 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 教学副院长室</pattern>
+<template>小开告诉你联系方式：23507056 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 副书记室</pattern>
+<template>小开告诉你联系方式：23500251 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 招生办公室</pattern>
+<template>小开告诉你联系方式：23503615 23507913（传真） </template>
+</category>
+<category>
+<pattern>汉语言文化学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23508706 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 资料室</pattern>
+<template>小开告诉你联系方式：85358130 23500157 </template>
+</category>
+<category>
+<pattern>汉语言文化学院 传达室</pattern>
+<template>小开告诉你联系方式：85358695 23509092（南楼） </template>
+</category>
+<category>
+<pattern>经济学院 院办公室</pattern>
+<template>小开告诉你联系方式：23501436 / 23500169 </template>
+</category>
+<category>
+<pattern>经济学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23508981 </template>
+</category>
+<category>
+<pattern>经济学院 院长室</pattern>
+<template>小开告诉你联系方式：23502059 </template>
+</category>
+<category>
+<pattern>经济学院 书记室</pattern>
+<template>小开告诉你联系方式：23505564 </template>
+</category>
+<category>
+<pattern>经济学院 团委</pattern>
+<template>小开告诉你联系方式：23509114 23504451 </template>
+</category>
+<category>
+<pattern>经济学院 学工办</pattern>
+<template>小开告诉你联系方式：23503740 </template>
+</category>
+<category>
+<pattern>经济学院 本科教学办公室</pattern>
+<template>小开告诉你联系方式：23501389 23495022 </template>
+</category>
+<category>
+<pattern>经济学院 研究生教学管理办公室</pattern>
+<template>小开告诉你联系方式：23501438（招生） 23505241（培养） </template>
+</category>
+<category>
+<pattern>经济学院 学科建设与科研办公室</pattern>
+<template>小开告诉你联系方式：23505745 </template>
+</category>
+<category>
+<pattern>经济学院 发展培训办公室</pattern>
+<template>小开告诉你联系方式：23501550 23508745 </template>
+</category>
+<category>
+<pattern>经济学院 《南开经济研究》编辑部</pattern>
+<template>小开告诉你联系方式：23508250 </template>
+</category>
+<category>
+<pattern>经济学院 金融EMBA项目办公室</pattern>
+<template>小开告诉你联系方式：23500620 </template>
+</category>
+<category>
+<pattern>经济学院 经济实验教学中心</pattern>
+<template>小开告诉你联系方式：23509074 / 23506935 </template>
+</category>
+<category>
+<pattern>经济学院 经济学系</pattern>
+<template>小开告诉你联系方式：23501837 </template>
+</category>
+<category>
+<pattern>经济学院 国际经济与贸易系</pattern>
+<template>小开告诉你联系方式：23501379 </template>
+</category>
+<category>
+<pattern>经济学院 财政学系、数量经济研究所、台湾经济研究所、财金研究所</pattern>
+<template>小开告诉你联系方式：23501401 </template>
+</category>
+<category>
+<pattern>经济学院 经济研究所</pattern>
+<template>小开告诉你联系方式：23503997 </template>
+</category>
+<category>
+<pattern>经济学院 国际经济研究所</pattern>
+<template>小开告诉你联系方式：23508291 23502437 </template>
+</category>
+<category>
+<pattern>经济学院 城市与区域经济研究所</pattern>
+<template>小开告诉你联系方式：23505430 </template>
+</category>
+<category>
+<pattern>经济学院 人口与发展研究所、国际商务系</pattern>
+<template>小开告诉你联系方式：23508012 </template>
+</category>
+<category>
+<pattern>经济学院 办公楼值班室</pattern>
+<template>小开告诉你联系方式：23508654 </template>
+</category>
+<category>
+<pattern>金融学院 行政办公室</pattern>
+<template>小开告诉你联系方式：23500517 </template>
+</category>
+<category>
+<pattern>金融学院 院长室</pattern>
+<template>小开告诉你联系方式：85358855 </template>
+</category>
+<category>
+<pattern>金融学院 书记室</pattern>
+<template>小开告诉你联系方式：85358655 </template>
+</category>
+<category>
+<pattern>金融学院 联席院长室</pattern>
+<template>小开告诉你联系方式：85358799 </template>
+</category>
+<category>
+<pattern>金融学院 常务副院长室</pattern>
+<template>小开告诉你联系方式：85358667 </template>
+</category>
+<category>
+<pattern>金融学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：85358717 </template>
+</category>
+<category>
+<pattern>金融学院 科研副院长室</pattern>
+<template>小开告诉你联系方式：85358296 </template>
+</category>
+<category>
+<pattern>金融学院 副书记室</pattern>
+<template>小开告诉你联系方式：85358088 </template>
+</category>
+<category>
+<pattern>金融学院 院长助理室</pattern>
+<template>小开告诉你联系方式：85358775 </template>
+</category>
+<category>
+<pattern>金融学院 党委、人事办公室</pattern>
+<template>小开告诉你联系方式：85358780 </template>
+</category>
+<category>
+<pattern>金融学院 财务室</pattern>
+<template>小开告诉你联系方式：85358983 </template>
+</category>
+<category>
+<pattern>金融学院 外事办公室</pattern>
+<template>小开告诉你联系方式：85358131 </template>
+</category>
+<category>
+<pattern>金融学院 团委</pattern>
+<template>小开告诉你联系方式：85358213 </template>
+</category>
+<category>
+<pattern>金融学院 本科教务办公室</pattern>
+<template>小开告诉你联系方式：85358568 </template>
+</category>
+<category>
+<pattern>金融学院 研究生办公室</pattern>
+<template>小开告诉你联系方式：23500537 85358826 </template>
+</category>
+<category>
+<pattern>金融学院 专硕中心</pattern>
+<template>小开告诉你联系方式：85358775 </template>
+</category>
+<category>
+<pattern>金融学院 实验中心</pattern>
+<template>小开告诉你联系方式：85358696 </template>
+</category>
+<category>
+<pattern>商学院 院办公室</pattern>
+<template>小开告诉你联系方式：23508785 23501039（传真） </template>
+</category>
+<category>
+<pattern>商学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23504107 23498168（传真） </template>
+</category>
+<category>
+<pattern>商学院 人力资源办公室</pattern>
+<template>小开告诉你联系方式：23508791 23500895 </template>
+</category>
+<category>
+<pattern>商学院 对外合作与交流办公室</pattern>
+<template>小开告诉你联系方式：23506127 23508295 </template>
+</category>
+<category>
+<pattern>商学院 认证办公室</pattern>
+<template>小开告诉你联系方式：23500603 23506789 </template>
+</category>
+<category>
+<pattern>商学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23508949 23498145 23506042（科研） </template>
+</category>
+<category>
+<pattern>商学院 研究生工作办公室</pattern>
+<template>小开告诉你联系方式：23503428 23508017 </template>
+</category>
+<category>
+<pattern>商学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：23508529 23500467 23500763 </template>
+</category>
+<category>
+<pattern>商学院 编辑部</pattern>
+<template>小开告诉你联系方式：23505995 23498167 </template>
+</category>
+<category>
+<pattern>商学院 培训中心</pattern>
+<template>小开告诉你联系方式：23502460 23505530 </template>
+</category>
+<category>
+<pattern>商学院 会计室</pattern>
+<template>小开告诉你联系方式：23501896 </template>
+</category>
+<category>
+<pattern>商学院 资料室</pattern>
+<template>小开告诉你联系方式：23508613 23498748 </template>
+</category>
+<category>
+<pattern>商学院 校友办</pattern>
+<template>小开告诉你联系方式：23508977 </template>
+</category>
+<category>
+<pattern>商学院 市场营销系</pattern>
+<template>小开告诉你联系方式：23506044 </template>
+</category>
+<category>
+<pattern>商学院 现代管理研究所</pattern>
+<template>小开告诉你联系方式：23506044 </template>
+</category>
+<category>
+<pattern>商学院 企业管理系</pattern>
+<template>小开告诉你联系方式：23501221 </template>
+</category>
+<category>
+<pattern>商学院 人力资源管理系</pattern>
+<template>小开告诉你联系方式：23501221 </template>
+</category>
+<category>
+<pattern>商学院 财务管理系</pattern>
+<template>小开告诉你联系方式：23509480 </template>
+</category>
+<category>
+<pattern>商学院 会计学系</pattern>
+<template>小开告诉你联系方式：23509480 </template>
+</category>
+<category>
+<pattern>商学院 管理科学与工程系</pattern>
+<template>小开告诉你联系方式：23506041 </template>
+</category>
+<category>
+<pattern>商学院 信息资源管理系</pattern>
+<template>小开告诉你联系方式：23506041 </template>
+</category>
+<category>
+<pattern>商学院 MBA中心</pattern>
+<template>小开告诉你联系方式：23498932（主任） 23508269（行政） </template>
+</category>
+<category>
+<pattern>商学院 EMBA中心</pattern>
+<template>小开告诉你联系方式：23494866（主任） 23503289（行政） </template>
+</category>
+<category>
+<pattern>商学院 EXED</pattern>
+<template>小开告诉你联系方式：23503289 23506838 </template>
+</category>
+<category>
+<pattern>商学院 MPM中心</pattern>
+<template>小开告诉你联系方式：23508940 23506481 </template>
+</category>
+<category>
+<pattern>商学院 MPAcc中心</pattern>
+<template>小开告诉你联系方式：23508941 23502334 </template>
+</category>
+<category>
+<pattern>商学院 MEM</pattern>
+<template>小开告诉你联系方式：中心、MLIS中心 23501309 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 书记室</pattern>
+<template>小开告诉你联系方式：23012958 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 院长室</pattern>
+<template>小开告诉你联系方式：23012999 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 教学副院长室</pattern>
+<template>小开告诉你联系方式：23012838 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 基层建设副院长室</pattern>
+<template>小开告诉你联系方式：23012998 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 党委副书记、副院长室</pattern>
+<template>小开告诉你联系方式：23012828 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 学院办公室</pattern>
+<template>小开告诉你联系方式：23012938 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23012961 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 教学办公室</pattern>
+<template>小开告诉你联系方式：23012824 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 信息资源中心与科研办公室</pattern>
+<template>小开告诉你联系方式：23016024 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 旅游管理硕士专业学位（MTA）教育中心</pattern>
+<template>小开告诉你联系方式：23012809 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 交流合作办公室</pattern>
+<template>小开告诉你联系方式：23012804 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 团委办公室</pattern>
+<template>小开告诉你联系方式：23012837 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 现代旅游业发展协同创新中心办公室</pattern>
+<template>小开告诉你联系方式：23012804 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 旅游市场实验室</pattern>
+<template>小开告诉你联系方式：23016330 </template>
+</category>
+<category>
+<pattern>旅游与服务学院 远程教育中心</pattern>
+<template>小开告诉你联系方式：23012839 </template>
+</category>
+<category>
+<pattern>数学科学学院 行政办公室</pattern>
+<template>小开告诉你联系方式：23506320 </template>
+</category>
+<category>
+<pattern>数学科学学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23508182 </template>
+</category>
+<category>
+<pattern>数学科学学院 院长室</pattern>
+<template>小开告诉你联系方式：23506430 </template>
+</category>
+<category>
+<pattern>数学科学学院 书记室</pattern>
+<template>小开告诉你联系方式：23502280 </template>
+</category>
+<category>
+<pattern>数学科学学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：23504717 </template>
+</category>
+<category>
+<pattern>数学科学学院 本科教学副院长室</pattern>
+<template>小开告诉你联系方式：23505610 </template>
+</category>
+<category>
+<pattern>数学科学学院 科研、研究生副院长室</pattern>
+<template>小开告诉你联系方式：23504072 </template>
+</category>
+<category>
+<pattern>数学科学学院 副书记室</pattern>
+<template>小开告诉你联系方式：23504703 </template>
+</category>
+<category>
+<pattern>数学科学学院 团委</pattern>
+<template>小开告诉你联系方式：23506423 </template>
+</category>
+<category>
+<pattern>数学科学学院 本科生管理办公室</pattern>
+<template>小开告诉你联系方式：23508372 </template>
+</category>
+<category>
+<pattern>数学科学学院 研究生管理办公室</pattern>
+<template>小开告诉你联系方式：23501233 </template>
+</category>
+<category>
+<pattern>数学科学学院 计算实验室</pattern>
+<template>小开告诉你联系方式：23508541 </template>
+</category>
+<category>
+<pattern>数学科学学院 科学计算研究所</pattern>
+<template>小开告诉你联系方式：23498372 </template>
+</category>
+<category>
+<pattern>数学科学学院 高等数学教学部</pattern>
+<template>小开告诉你联系方式：85358017 23506302 </template>
+</category>
+<category>
+<pattern>数学科学学院 值班室</pattern>
+<template>小开告诉你联系方式：23508519 </template>
+</category>
+<category>
+<pattern>物理科学学院 院办公室</pattern>
+<template>小开告诉你联系方式：23501594 </template>
+</category>
+<category>
+<pattern>物理科学学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23508514 </template>
+</category>
+<category>
+<pattern>物理科学学院 院长室</pattern>
+<template>小开告诉你联系方式：23501490 </template>
+</category>
+<category>
+<pattern>物理科学学院 书记室</pattern>
+<template>小开告诉你联系方式：23503383 </template>
+</category>
+<category>
+<pattern>物理科学学院 团委</pattern>
+<template>小开告诉你联系方式：23508559 223501472 </template>
+</category>
+<category>
+<pattern>物理科学学院 本科教学办公室</pattern>
+<template>小开告诉你联系方式：23508052 </template>
+</category>
+<category>
+<pattern>物理科学学院 研究生教学办公室</pattern>
+<template>小开告诉你联系方式：23508016 </template>
+</category>
+<category>
+<pattern>物理科学学院 科研办公室</pattern>
+<template>小开告诉你联系方式：23508016 </template>
+</category>
+<category>
+<pattern>物理科学学院 人事管理</pattern>
+<template>小开告诉你联系方式：23508210 </template>
+</category>
+<category>
+<pattern>物理科学学院 财务室</pattern>
+<template>小开告诉你联系方式：23508543 </template>
+</category>
+<category>
+<pattern>物理科学学院 资料室</pattern>
+<template>小开告诉你联系方式：23501225 223503591 </template>
+</category>
+<category>
+<pattern>物理科学学院 天津市物理学会</pattern>
+<template>小开告诉你联系方式：23502572 </template>
+</category>
+<category>
+<pattern>物理科学学院 三教值班室</pattern>
+<template>小开告诉你联系方式：23508413 </template>
+</category>
+<category>
+<pattern>物理科学学院 五教值班室</pattern>
+<template>小开告诉你联系方式：23508896 </template>
+</category>
+<category>
+<pattern>化学学院 综合办公室</pattern>
+<template>小开告诉你联系方式：23508470 23500201（人事） </template>
+</category>
+<category>
+<pattern>化学学院 后勤安全</pattern>
+<template>小开告诉你联系方式：23508407 </template>
+</category>
+<category>
+<pattern>化学学院 财务</pattern>
+<template>小开告诉你联系方式：23508005 </template>
+</category>
+<category>
+<pattern>化学学院 资料室</pattern>
+<template>小开告诉你联系方式：23508484 </template>
+</category>
+<category>
+<pattern>化学学院 固定资产</pattern>
+<template>小开告诉你联系方式：23503175 </template>
+</category>
+<category>
+<pattern>化学学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23508074 </template>
+</category>
+<category>
+<pattern>化学学院 院长室</pattern>
+<template>小开告诉你联系方式：23506808 </template>
+</category>
+<category>
+<pattern>化学学院 书记室</pattern>
+<template>小开告诉你联系方式：23503491 </template>
+</category>
+<category>
+<pattern>化学学院 学工办</pattern>
+<template>小开告诉你联系方式：23508842（本科生） 83662806（研究生） </template>
+</category>
+<category>
+<pattern>化学学院 本科教学办公室</pattern>
+<template>小开告诉你联系方式：23508841 </template>
+</category>
+<category>
+<pattern>化学学院 研究生教学办公室</pattern>
+<template>小开告诉你联系方式：23505121（招生） 23508473（培养） </template>
+</category>
+<category>
+<pattern>化学学院 科研办公室</pattern>
+<template>小开告诉你联系方式：23501348 </template>
+</category>
+<category>
+<pattern>化学学院 化学系</pattern>
+<template>小开告诉你联系方式：23508849（办公室） 23508843（值班室） </template>
+</category>
+<category>
+<pattern>化学学院 《高校化学学报》分编辑部</pattern>
+<template>小开告诉你联系方式：23509967 </template>
+</category>
+<category>
+<pattern>化学学院 元素有机化学研究所</pattern>
+<template>小开告诉你联系方式：23503627（办公室） 23508325（石先楼值班室） 23508784（六教） 83662686（生测楼） </template>
+</category>
+<category>
+<pattern>化学学院 元素有机化学国家重点实验室</pattern>
+<template>小开告诉你联系方式：23503691 </template>
+</category>
+<category>
+<pattern>化学学院 农药国家工程研究中心</pattern>
+<template>小开告诉你联系方式：23503703 23505948 </template>
+</category>
+<category>
+<pattern>化学学院 高分子化学研究所</pattern>
+<template>小开告诉你联系方式：23501386 23502749（办公室） 23503510（传达室） </template>
+</category>
+<category>
+<pattern>化学学院 《离子交换与吸附》编辑部</pattern>
+<template>小开告诉你联系方式：23503511 </template>
+</category>
+<category>
+<pattern>化学学院 应用化学与工程研究所</pattern>
+<template>小开告诉你联系方式：23503702 </template>
+</category>
+<category>
+<pattern>化学学院 分析科学研究中心</pattern>
+<template>小开告诉你联系方式：23501380（办公室） 23508327（值班室） </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 综合办公室</pattern>
+<template>小开告诉你联系方式：85358786 85358766（人事） </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 财务、设备</pattern>
+<template>小开告诉你联系方式：85358783 </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 成果转化</pattern>
+<template>小开告诉你联系方式：85358394 </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 党委办公室</pattern>
+<template>小开告诉你联系方式：85358682 </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 副院长室</pattern>
+<template>小开告诉你联系方式：85358158 </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 副书记室</pattern>
+<template>小开告诉你联系方式：85358649 </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 团委</pattern>
+<template>小开告诉你联系方式：85358930 </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 一站式服务中心</pattern>
+<template>小开告诉你联系方式：85358394（本科教学 / 科研） </template>
+</category>
+<category>
+<pattern>材料科学与工程学院 研究生教学</pattern>
+<template>小开告诉你联系方式：23502604 </template>
+</category>
+<category>
+<pattern>生命科学学院 院办公室</pattern>
+<template>小开告诉你联系方式：23509630 23502705 23505272 </template>
+</category>
+<category>
+<pattern>生命科学学院 党委办公室</pattern>
+<template>小开告诉你联系方式：23502989 </template>
+</category>
+<category>
+<pattern>生命科学学院 院长室</pattern>
+<template>小开告诉你联系方式：23506218 </template>
+</category>
+<category>
+<pattern>生命科学学院 书记室</pattern>
+<template>小开告诉你联系方式：23508800 </template>
+</category>
+<category>
+<pattern>生命科学学院 副院长室</pattern>
+<template>小开告诉你联系方式：23501846 23508870 </template>
+</category>
+<category>
+<pattern>生命科学学院 副书记室</pattern>
+<template>小开告诉你联系方式：23499654 </template>
+</category>
+<category>
+<pattern>生命科学学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：23508242 23502729 </template>
+</category>
+<category>
+<pattern>生命科学学院 教学办公室</pattern>
+<template>小开告诉你联系方式：23501726 23508897 </template>
+</category>
+<category>
+<pattern>生命科学学院 科研办公室</pattern>
+<template>小开告诉你联系方式：23502210 </template>
+</category>
+<category>
+<pattern>生命科学学院 研究生办公室</pattern>
+<template>小开告诉你联系方式：23503593 23503533 </template>
+</category>
+<category>
+<pattern>生命科学学院 公共实验平台</pattern>
+<template>小开告诉你联系方式：23503503 </template>
+</category>
+<category>
+<pattern>生命科学学院 公共实验教学中心</pattern>
+<template>小开告诉你联系方式：23507658 </template>
+</category>
+<category>
+<pattern>生命科学学院 生物活性材料教育部重点实验室</pattern>
+<template>小开告诉你联系方式：23502155 </template>
+</category>
+<category>
+<pattern>生命科学学院 生物站值班室</pattern>
+<template>小开告诉你联系方式：23502976 </template>
+</category>
+<category>
+<pattern>生命科学学院 生物楼值班室</pattern>
+<template>小开告诉你联系方式：23508655 </template>
+</category>
+<category>
+<pattern>生命科学学院 第四教学楼值班室</pattern>
+<template>小开告诉你联系方式：23508200 </template>
+</category>
+<category>
+<pattern>生命科学学院 分子所值班室</pattern>
+<template>小开告诉你联系方式：23498400 </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 综合办公室</pattern>
+<template>小开告诉你联系方式：23501117 85358781 </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 院长室</pattern>
+<template>小开告诉你联系方式：23507800 </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 书记室</pattern>
+<template>小开告诉你联系方式：23508702 </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 副院长室</pattern>
+<template>小开告诉你联系方式：85358233 85358055 </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 副书记室</pattern>
+<template>小开告诉你联系方式：85358459 </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：23504305 85358530 </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23508807（本科教学） </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 85358121</pattern>
+<template>小开告诉你联系方式：85358911（研究生教学 / 科研） </template>
+</category>
+<category>
+<pattern>环境科学与工程学院 驻泰达办公室</pattern>
+<template>小开告诉你联系方式：66229392 </template>
+</category>
+<category>
+<pattern>医学院 行政办公室</pattern>
+<template>小开告诉你联系方式：85358549 23502554 23509913 </template>
+</category>
+<category>
+<pattern>医学院 院长室</pattern>
+<template>小开告诉你联系方式：23509505 </template>
+</category>
+<category>
+<pattern>医学院 书记室</pattern>
+<template>小开告诉你联系方式：23503548 </template>
+</category>
+<category>
+<pattern>医学院 学工办</pattern>
+<template>小开告诉你联系方式：23508098 </template>
+</category>
+<category>
+<pattern>医学院 教学办公室</pattern>
+<template>小开告诉你联系方式：23503994 </template>
+</category>
+<category>
+<pattern>医学院 科研办公室</pattern>
+<template>小开告诉你联系方式：23494031 </template>
+</category>
+<category>
+<pattern>药学院 院办公室</pattern>
+<template>小开告诉你联系方式：23506290 </template>
+</category>
+<category>
+<pattern>药学院 党委办公室</pattern>
+<template>小开告诉你联系方式：85358118 </template>
+</category>
+<category>
+<pattern>药学院 院长室</pattern>
+<template>小开告诉你联系方式：23500963 </template>
+</category>
+<category>
+<pattern>药学院 书记室</pattern>
+<template>小开告诉你联系方式：23506319 </template>
+</category>
+<category>
+<pattern>药学院 副院长室</pattern>
+<template>小开告诉你联系方式：85358558 85358083 </template>
+</category>
+<category>
+<pattern>药学院 副书记室</pattern>
+<template>小开告诉你联系方式：85358866 </template>
+</category>
+<category>
+<pattern>药学院 学工办</pattern>
+<template>小开告诉你联系方式：23507956 </template>
+</category>
+<category>
+<pattern>药学院 本科生教学</pattern>
+<template>小开告诉你联系方式：23503375 </template>
+</category>
+<category>
+<pattern>药学院 研究生教学</pattern>
+<template>小开告诉你联系方式：85358658 </template>
+</category>
+<category>
+<pattern>药学院 科研管理</pattern>
+<template>小开告诉你联系方式：23507760（传真） </template>
+</category>
+<category>
+<pattern>药学院 仪器平台</pattern>
+<template>小开告诉你联系方式：23505259 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 院办公室</pattern>
+<template>小开告诉你联系方式：85358565 23501565 85358897 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 院长、书记室</pattern>
+<template>小开告诉你联系方式：85358795 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：23509054 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 教学、学生工作副院长室</pattern>
+<template>小开告诉你联系方式：23508147 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 党委秘书室</pattern>
+<template>小开告诉你联系方式：23505705 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：85358380 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23508554 23508652 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 研究生办公室</pattern>
+<template>小开告诉你联系方式：85358740 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 实验中心</pattern>
+<template>小开告诉你联系方式：23494333 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 光电子薄膜器件与技术研究所</pattern>
+<template>小开告诉你联系方式：23500197 23502778 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院 现代光学研究所</pattern>
+<template>小开告诉你联系方式：23502275 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 院办公室</pattern>
+<template>小开告诉你联系方式：23500526 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 院长室</pattern>
+<template>小开告诉你联系方式：23509175 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 书记室</pattern>
+<template>小开告诉你联系方式：23502758 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 副院长室</pattern>
+<template>小开告诉你联系方式：23505768 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 副书记室</pattern>
+<template>小开告诉你联系方式：23504951 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：23498951 23500795 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23503393 85358228 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 研究生办公室</pattern>
+<template>小开告诉你联系方式：23503438 23505863 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 计算机科学与信息安全系</pattern>
+<template>小开告诉你联系方式：85358995 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 自动化与智能科学系</pattern>
+<template>小开告诉你联系方式：23505706 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 机器人与信息自动化研究所</pattern>
+<template>小开告诉你联系方式：23505706 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 机器智能研究所</pattern>
+<template>小开告诉你联系方式：23500350 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 实验教学中心</pattern>
+<template>小开告诉你联系方式：23505171 23498953 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 公共计算机基础教学部</pattern>
+<template>小开告诉你联系方式：23503590 23502290 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院 物业室</pattern>
+<template>小开告诉你联系方式：85358364 </template>
+</category>
+<category>
+<pattern>软件学院 综合办公室</pattern>
+<template>小开告诉你联系方式：85358085 85358032 85358183 </template>
+</category>
+<category>
+<pattern>泰达学院 院办公室</pattern>
+<template>小开告诉你联系方式：66229398 66229191 66229399（传真） </template>
+</category>
+<category>
+<pattern>泰达学院 院长室</pattern>
+<template>小开告诉你联系方式：66229575 </template>
+</category>
+<category>
+<pattern>泰达学院 书记室</pattern>
+<template>小开告诉你联系方式：66229968 </template>
+</category>
+<category>
+<pattern>泰达学院 常务副院长室</pattern>
+<template>小开告诉你联系方式：66229585 </template>
+</category>
+<category>
+<pattern>泰达学院 行政副院长室</pattern>
+<template>小开告诉你联系方式：66229918 </template>
+</category>
+<category>
+<pattern>泰达学院 外事副院长室</pattern>
+<template>小开告诉你联系方式：66229630 </template>
+</category>
+<category>
+<pattern>泰达学院 后勤副院长室</pattern>
+<template>小开告诉你联系方式：66229118 </template>
+</category>
+<category>
+<pattern>泰达学院 副书记室</pattern>
+<template>小开告诉你联系方式：66229618 </template>
+</category>
+<category>
+<pattern>泰达学院 党委秘书室</pattern>
+<template>小开告诉你联系方式：66229400 </template>
+</category>
+<category>
+<pattern>泰达学院 团委、学工办</pattern>
+<template>小开告诉你联系方式：66229388 66229389 </template>
+</category>
+<category>
+<pattern>泰达学院 教学科研办公室</pattern>
+<template>小开告诉你联系方式：66229357 66229355 </template>
+</category>
+<category>
+<pattern>泰达学院 后勤办公室</pattern>
+<template>小开告诉你联系方式：66229121 </template>
+</category>
+<category>
+<pattern>泰达学院 财务室</pattern>
+<template>小开告诉你联系方式：66229406 </template>
+</category>
+<category>
+<pattern>泰达学院 实验教学中心</pattern>
+<template>小开告诉你联系方式：66229356 </template>
+</category>
+<category>
+<pattern>泰达学院 网络中心</pattern>
+<template>小开告诉你联系方式：66229368 </template>
+</category>
+<category>
+<pattern>泰达学院 图书资料中心</pattern>
+<template>小开告诉你联系方式：66229434 </template>
+</category>
+<category>
+<pattern>泰达学院 医务室</pattern>
+<template>小开告诉你联系方式：66229524 </template>
+</category>
+<category>
+<pattern>伯苓学院 办公室</pattern>
+<template>小开告诉你联系方式：23500789 </template>
+</category>
+<category>
+<pattern>体育部 综合办公室</pattern>
+<template>小开告诉你联系方式：23508701 </template>
+</category>
+<category>
+<pattern>体育部 主任室</pattern>
+<template>小开告诉你联系方式：23502801 </template>
+</category>
+<category>
+<pattern>体育部 书记室</pattern>
+<template>小开告诉你联系方式：23503862 </template>
+</category>
+<category>
+<pattern>体育部 教学办公室</pattern>
+<template>小开告诉你联系方式：23498705 </template>
+</category>
+<category>
+<pattern>体育部 场馆中心办公室</pattern>
+<template>小开告诉你联系方式：85358161（津南） 23508786（八里台） </template>
+</category>
+<category>
+<pattern>体育部 体育馆值班室</pattern>
+<template>小开告诉你联系方式：85358164（津南） 23503684（八里台） </template>
+</category>
+<category>
+<pattern>图书馆 办公室</pattern>
+<template>小开告诉你联系方式：85358271（传真） 23508271（传真） </template>
+</category>
+<category>
+<pattern>图书馆 党委办公室</pattern>
+<template>小开告诉你联系方式：85358365 </template>
+</category>
+<category>
+<pattern>图书馆 馆长室</pattern>
+<template>小开告诉你联系方式：85358366 </template>
+</category>
+<category>
+<pattern>图书馆 副馆长室</pattern>
+<template>小开告诉你联系方式：85358369 85358927 </template>
+</category>
+<category>
+<pattern>图书馆 中心馆总服务台</pattern>
+<template>小开告诉你联系方式：85358363 </template>
+</category>
+<category>
+<pattern>图书馆 逸夫馆总服务台</pattern>
+<template>小开告诉你联系方式：23508363 </template>
+</category>
+<category>
+<pattern>图书馆 理科馆总服务台</pattern>
+<template>小开告诉你联系方式：23508176 </template>
+</category>
+<category>
+<pattern>图书馆 文献资源部</pattern>
+<template>小开告诉你联系方式：23508574 85358574 </template>
+</category>
+<category>
+<pattern>图书馆 多媒体服务部</pattern>
+<template>小开告诉你联系方式：85358637 </template>
+</category>
+<category>
+<pattern>图书馆 网络技术部</pattern>
+<template>小开告诉你联系方式：85358636 23508636 </template>
+</category>
+<category>
+<pattern>图书馆 科技查新室</pattern>
+<template>小开告诉你联系方式：85358050 23509050 </template>
+</category>
+<category>
+<pattern>图书馆 馆际互借与原文传递室</pattern>
+<template>小开告诉你联系方式：23508417 23505633 </template>
+</category>
+<category>
+<pattern>图书馆 学位论文提交室</pattern>
+<template>小开告诉你联系方式：85358442 23509442 </template>
+</category>
+<category>
+<pattern>图书馆 古籍部</pattern>
+<template>小开告诉你联系方式：85358360 23508365 </template>
+</category>
+<category>
+<pattern>图书馆 经济学分馆</pattern>
+<template>小开告诉你联系方式：23508951 </template>
+</category>
+<category>
+<pattern>图书馆 中心馆值班室</pattern>
+<template>小开告诉你联系方式：85358720 </template>
+</category>
+<category>
+<pattern>图书馆 逸夫馆值班室</pattern>
+<template>小开告诉你联系方式：23508700 </template>
+</category>
+<category>
+<pattern>图书馆 理科馆值班室</pattern>
+<template>小开告诉你联系方式：23508343 </template>
+</category>
+<category>
+<pattern>出版社 办公室</pattern>
+<template>小开告诉你联系方式：23501809 23503563（传真） </template>
+</category>
+<category>
+<pattern>出版社 总编室</pattern>
+<template>小开告诉你联系方式：23502505 23504636（传真） </template>
+</category>
+<category>
+<pattern>出版社 财务科</pattern>
+<template>小开告诉你联系方式：23502403 </template>
+</category>
+<category>
+<pattern>档案馆 馆长室</pattern>
+<template>小开告诉你联系方式：23508095 </template>
+</category>
+<category>
+<pattern>档案馆 保管利用科</pattern>
+<template>小开告诉你联系方式：23508756 </template>
+</category>
+<category>
+<pattern>档案馆 收集指导科</pattern>
+<template>小开告诉你联系方式：23505129 </template>
+</category>
+<category>
+<pattern>档案馆 电子档案与技术服务科</pattern>
+<template>小开告诉你联系方式：23501300 </template>
+</category>
+<category>
+<pattern>档案馆 值班室</pattern>
+<template>小开告诉你联系方式：23498013 </template>
+</category>
+<category>
+<pattern>学报编辑部 行政办公室</pattern>
+<template>小开告诉你联系方式：23501681 </template>
+</category>
+<category>
+<pattern>学报编辑部 主编室</pattern>
+<template>小开告诉你联系方式：23508374 </template>
+</category>
+<category>
+<pattern>学报编辑部 文科编辑室</pattern>
+<template>小开告诉你联系方式：23509325 </template>
+</category>
+<category>
+<pattern>学报编辑部 理科编辑室</pattern>
+<template>小开告诉你联系方式：23509316 </template>
+</category>
+<category>
+<pattern>现代应用技术研究院 综合办公室</pattern>
+<template>小开告诉你联系方式：23498249（传真） </template>
+</category>
+<category>
+<pattern>现代应用技术研究院 认证办公室</pattern>
+<template>小开告诉你联系方式：23508163 </template>
+</category>
+<category>
+<pattern>现代应用技术研究院 国防项目中心</pattern>
+<template>小开告诉你联系方式：85358043 23498043 </template>
+</category>
+<category>
+<pattern>科技成果转化中心 办公室</pattern>
+<template>小开告诉你联系方式：85358186 23500186 </template>
+</category>
+<category>
+<pattern>教师发展中心 综合办公室</pattern>
+<template>小开告诉你联系方式：23501518 23509938 </template>
+</category>
+<category>
+<pattern>博物馆 办公室</pattern>
+<template>小开告诉你联系方式：23508315 </template>
+</category>
+<category>
+<pattern>博物馆 馆长室</pattern>
+<template>小开告诉你联系方式：23508255 </template>
+</category>
+<category>
+<pattern>博物馆 资料室</pattern>
+<template>小开告诉你联系方式：83662779 </template>
+</category>
+<category>
+<pattern>博物馆 东方艺术楼值班室</pattern>
+<template>小开告诉你联系方式：83661622 </template>
+</category>
+<category>
+<pattern>直属单位第一党委 办公室</pattern>
+<template>小开告诉你联系方式：23503777 </template>
+</category>
+<category>
+<pattern>后勤党委 办公室</pattern>
+<template>小开告诉你联系方式：23504980 </template>
+</category>
+<category>
+<pattern>后勤党委 书记室</pattern>
+<template>小开告诉你联系方式：23504842 </template>
+</category>
+<category>
+<pattern>后勤党委 副书记室</pattern>
+<template>小开告诉你联系方式：88973100 </template>
+</category>
+<category>
+<pattern>后勤保障部 综合办公室</pattern>
+<template>小开告诉你联系方式：88973788 23503541 23501355（财务） </template>
+</category>
+<category>
+<pattern>后勤保障部 项目管理办公室</pattern>
+<template>小开告诉你联系方式：88973089 23505249 </template>
+</category>
+<category>
+<pattern>后勤保障部 设计管理办公室</pattern>
+<template>小开告诉你联系方式：88973096 23500741 </template>
+</category>
+<category>
+<pattern>后勤保障部 节能办公室</pattern>
+<template>小开告诉你联系方式：23502600 23501600 </template>
+</category>
+<category>
+<pattern>后勤保障部 电力运行科</pattern>
+<template>小开告诉你联系方式：85358015 23508015 </template>
+</category>
+<category>
+<pattern>后勤保障部 水暖空调科</pattern>
+<template>小开告诉你联系方式：23498146 23503134 </template>
+</category>
+<category>
+<pattern>后勤保障部 维修科</pattern>
+<template>小开告诉你联系方式：23508381 23509831 </template>
+</category>
+<category>
+<pattern>后勤保障部 工程科</pattern>
+<template>小开告诉你联系方式：23506981 </template>
+</category>
+<category>
+<pattern>后勤保障部 津南校区物业服务科</pattern>
+<template>小开告诉你联系方式：23505275 88973066 </template>
+</category>
+<category>
+<pattern>后勤保障部 八里台校区物业服务科</pattern>
+<template>小开告诉你联系方式：23509566 23509336 </template>
+</category>
+<category>
+<pattern>后勤保障部 环境管理科</pattern>
+<template>小开告诉你联系方式：23508324 </template>
+</category>
+<category>
+<pattern>后勤保障部 商业服务管理科</pattern>
+<template>小开告诉你联系方式：23508761 </template>
+</category>
+<category>
+<pattern>后勤保障部 户籍管理办公室</pattern>
+<template>小开告诉你联系方式：23507997 </template>
+</category>
+<category>
+<pattern>后勤保障部 计划生育办公室</pattern>
+<template>小开告诉你联系方式：23508187 </template>
+</category>
+<category>
+<pattern>后勤保障部 24小时报修平台</pattern>
+<template>小开告诉你联系方式：85358535 </template>
+</category>
+<category>
+<pattern>接待服务中心 办公室</pattern>
+<template>小开告诉你联系方式：85358278 23503123 </template>
+</category>
+<category>
+<pattern>接待服务中心 客房预定</pattern>
+<template>小开告诉你联系方式：85358198 85358915（津南） 23501555 23509333（八里台） </template>
+</category>
+<category>
+<pattern>接待服务中心 客运部</pattern>
+<template>小开告诉你联系方式：58610134（津南） 23508350（八里台） </template>
+</category>
+<category>
+<pattern>接待服务中心 餐饮部</pattern>
+<template>小开告诉你联系方式：85358798 </template>
+</category>
+<category>
+<pattern>接待服务中心 明珠园餐厅</pattern>
+<template>小开告诉你联系方式：23505111 </template>
+</category>
+<category>
+<pattern>接待服务中心 爱大会馆餐厅</pattern>
+<template>小开告诉你联系方式：23505998 </template>
+</category>
+<category>
+<pattern>接待服务中心 专家楼餐厅</pattern>
+<template>小开告诉你联系方式：85358188（津南） 23508637（八里台） </template>
+</category>
+<category>
+<pattern>接待服务中心 谊园餐厅</pattern>
+<template>小开告诉你联系方式：23508976 </template>
+</category>
+<category>
+<pattern>接待服务中心 静园餐厅</pattern>
+<template>小开告诉你联系方式：23500908 </template>
+</category>
+<category>
+<pattern>接待服务中心 留学生公寓餐厅</pattern>
+<template>小开告诉你联系方式：85358778 </template>
+</category>
+<category>
+<pattern>接待服务中心 品牌文化店</pattern>
+<template>小开告诉你联系方式：85358258（津南） 23501122（八里台） </template>
+</category>
+<category>
+<pattern>膳食服务中心 办公室</pattern>
+<template>小开告诉你联系方式：85358384 23501384 </template>
+</category>
+<category>
+<pattern>资产经营有限责任公司 办公室</pattern>
+<template>小开告诉你联系方式：23500071 23508948 </template>
+</category>
+<category>
+<pattern>资产经营有限责任公司 党委办公室</pattern>
+<template>小开告诉你联系方式：23508108 </template>
+</category>
+<category>
+<pattern>资产经营有限责任公司 书记室</pattern>
+<template>小开告诉你联系方式：23507831 </template>
+</category>
+<category>
+<pattern>资产经营有限责任公司 财务部</pattern>
+<template>小开告诉你联系方式：23494849 </template>
+</category>
+<category>
+<pattern>资产经营有限责任公司 人事部（留守管理中心）</pattern>
+<template>小开告诉你联系方式：23508321 </template>
+</category>
+<category>
+<pattern>资产经营有限责任公司 企管部</pattern>
+<template>小开告诉你联系方式：23500071 23494849 </template>
+</category>
+<category>
+<pattern>继续教育学院 办公室</pattern>
+<template>小开告诉你联系方式：23504841 23507712（传真） </template>
+</category>
+<category>
+<pattern>继续教育学院 院长室</pattern>
+<template>小开告诉你联系方式：23509423 </template>
+</category>
+<category>
+<pattern>继续教育学院 书记室</pattern>
+<template>小开告诉你联系方式：23500889 </template>
+</category>
+<category>
+<pattern>继续教育学院 管理科</pattern>
+<template>小开告诉你联系方式：23508302 </template>
+</category>
+<category>
+<pattern>继续教育学院 高端继续教育（EDP）中心</pattern>
+<template>小开告诉你联系方式：23503465 23505337 </template>
+</category>
+<category>
+<pattern>继续教育学院 政府干部培训</pattern>
+<template>小开告诉你联系方式：23507177 23502890 </template>
+</category>
+<category>
+<pattern>继续教育学院 企业培训</pattern>
+<template>小开告诉你联系方式：23506277 </template>
+</category>
+<category>
+<pattern>现代远程教育学院 办公室</pattern>
+<template>小开告诉你联系方式：23504841 23507712（传真） </template>
+</category>
+<category>
+<pattern>现代远程教育学院 院长室</pattern>
+<template>小开告诉你联系方式：23509423 </template>
+</category>
+<category>
+<pattern>现代远程教育学院 书记室</pattern>
+<template>小开告诉你联系方式：23500889 </template>
+</category>
+<category>
+<pattern>现代远程教育学院 招生管理部</pattern>
+<template>小开告诉你联系方式：23498220（本市） 23500570（外省市） </template>
+</category>
+<category>
+<pattern>现代远程教育学院 学习中心与学生工作部</pattern>
+<template>小开告诉你联系方式：23501805 </template>
+</category>
+<category>
+<pattern>现代远程教育学院 教学教务部</pattern>
+<template>小开告诉你联系方式：23506221 </template>
+</category>
+<category>
+<pattern>现代远程教育学院 资源管理部</pattern>
+<template>小开告诉你联系方式：23506108 </template>
+</category>
+<category>
+<pattern>滨海学院 院办公室</pattern>
+<template>小开告诉你联系方式：63304888 </template>
+</category>
+<category>
+<pattern>滨海学院 院长室</pattern>
+<template>小开告诉你联系方式：63304828 </template>
+</category>
+<category>
+<pattern>滨海学院 书记室</pattern>
+<template>小开告诉你联系方式：63304818 </template>
+</category>
+<category>
+<pattern>滨海学院 团委</pattern>
+<template>小开告诉你联系方式：63304819 </template>
+</category>
+<category>
+<pattern>滨海学院 学生工作部</pattern>
+<template>小开告诉你联系方式：63304848 </template>
+</category>
+<category>
+<pattern>滨海学院 招生办公室</pattern>
+<template>小开告诉你联系方式：63304928 </template>
+</category>
+<category>
+<pattern>附属医院（第四医院） 院办公室</pattern>
+<template>小开告诉你联系方式：28340287（传真） </template>
+</category>
+<category>
+<pattern>附属医院（第四医院） 党委办公室</pattern>
+<template>小开告诉你联系方式：15760738974 </template>
+</category>
+<category>
+<pattern>附属医院（第四医院） 行政值班室</pattern>
+<template>小开告诉你联系方式：28126483 13821228432 </template>
+</category>
+<category>
+<pattern>附属小学 办公室</pattern>
+<template>小开告诉你联系方式：23501163 </template>
+</category>
+<category>
+<pattern>附属小学 教学处</pattern>
+<template>小开告诉你联系方式：23665519 </template>
+</category>
+<category>
+<pattern>幼儿园 园长室</pattern>
+<template>小开告诉你联系方式：23502991 </template>
+</category>
+<category>
+<pattern>幼儿园 教学、招生办公室</pattern>
+<template>小开告诉你联系方式：23503404 </template>
+</category>
+<category>
+<pattern>幼儿园 会计室</pattern>
+<template>小开告诉你联系方式：23504880 </template>
+</category>
+<category>
+<pattern>幼儿园 传达室</pattern>
+<template>小开告诉你联系方式：23508328 </template>
+</category>
+<category>
+<pattern>校医院 办公室</pattern>
+<template>小开告诉你联系方式：85358254（津南） 23498917（八里台） </template>
+</category>
+<category>
+<pattern>校医院 院长室</pattern>
+<template>小开告诉你联系方式：23508254 </template>
+</category>
+<category>
+<pattern>校医院 急诊室</pattern>
+<template>小开告诉你联系方式：85358311（津南） 23502400（八里台） </template>
+</category>
+<category>
+<pattern>校医院 预防科</pattern>
+<template>小开告诉你联系方式：85358772（津南） 23508586（八里台） </template>
+</category>
+<category>
+<pattern>药物化学生物学国家重点实验室 综合办公室</pattern>
+<template>小开告诉你联系方式：85358291 85358295 23495191 23495195 </template>
+</category>
+<category>
+<pattern>药物化学生物学国家重点实验室 主任室</pattern>
+<template>小开告诉你联系方式：85358797 85358796（秘书） 23502797 23502787（秘书） </template>
+</category>
+<category>
+<pattern>药物化学生物学国家重点实验室 财务室</pattern>
+<template>小开告诉你联系方式：85358192 23495191 </template>
+</category>
+<category>
+<pattern>药物化学生物学国家重点实验室 物业室</pattern>
+<template>小开告诉你联系方式：85358240 23495122 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 综合办公室</pattern>
+<template>小开告诉你联系方式：23501029 23508228 23508114（传真） </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 所长室</pattern>
+<template>小开告诉你联系方式：23504971 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 副所长室</pattern>
+<template>小开告诉你联系方式：23504471 23501532 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 财务室</pattern>
+<template>小开告诉你联系方式：23508979 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 教学科研办公室</pattern>
+<template>小开告诉你联系方式：23501879 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 理论物理研究室</pattern>
+<template>小开告诉你联系方式：23503460 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 数学图书馆</pattern>
+<template>小开告诉你联系方式：23506821 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 省身楼值班室</pattern>
+<template>小开告诉你联系方式：23509472 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 嘉园</pattern>
+<template>小开告诉你联系方式：23508466（餐厅） </template>
+</category>
+<category>
+<pattern>陈省身数学研究所 23506281</pattern>
+<template>小开告诉你联系方式：23508089（客房部） </template>
+</category>
+<category>
+<pattern>组合数学研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23502180 23509272(传真) </template>
+</category>
+<category>
+<pattern>统计研究院 办公室</pattern>
+<template>小开告诉你联系方式：23501103 23501583 </template>
+</category>
+<category>
+<pattern>泰达应用物理研究院 办公室</pattern>
+<template>小开告诉你联系方式：66229419 </template>
+</category>
+<category>
+<pattern>泰达应用物理研究院 副院长室</pattern>
+<template>小开告诉你联系方式：66229415 </template>
+</category>
+<category>
+<pattern>泰达生物技术研究院 办公室</pattern>
+<template>小开告诉你联系方式：66229578 </template>
+</category>
+<category>
+<pattern>泰达生物技术研究院 副院长室</pattern>
+<template>小开告诉你联系方式：66229756 </template>
+</category>
+<category>
+<pattern>经济与社会发展研究院 办公室</pattern>
+<template>小开告诉你联系方式：23503746 23506871（传真） </template>
+</category>
+<category>
+<pattern>经济与社会发展研究院 院长室</pattern>
+<template>小开告诉你联系方式：23505966 </template>
+</category>
+<category>
+<pattern>经济与社会发展研究院 副院长室</pattern>
+<template>小开告诉你联系方式：23498577 </template>
+</category>
+<category>
+<pattern>经济与社会发展研究院 科技成果转化与国际交流办公室</pattern>
+<template>小开告诉你联系方式：23506162 23504086（传真） </template>
+</category>
+<category>
+<pattern>金融发展研究院 办公室</pattern>
+<template>小开告诉你联系方式：23503316 </template>
+</category>
+<category>
+<pattern>国家经济战略研究院 办公室</pattern>
+<template>小开告诉你联系方式：23502592 </template>
+</category>
+<category>
+<pattern>滨海开发研究院 办公室</pattern>
+<template>小开告诉你联系方式：23505110（传真） </template>
+</category>
+<category>
+<pattern>滨海开发研究院 院长室</pattern>
+<template>小开告诉你联系方式：23505036 </template>
+</category>
+<category>
+<pattern>中国公司治理院 办公室</pattern>
+<template>小开告诉你联系方式：23498746 23498745（传真） </template>
+</category>
+<category>
+<pattern>日本研究院 办公室</pattern>
+<template>小开告诉你联系方式：23505186 23505753(传真) </template>
+</category>
+<category>
+<pattern>日本研究院 院长室</pattern>
+<template>小开告诉你联系方式：23501547 </template>
+</category>
+<category>
+<pattern>跨文化交流院 办公室</pattern>
+<template>小开告诉你联系方式：23500508 </template>
+</category>
+<category>
+<pattern>APEC研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23501573 23500035（传真） </template>
+</category>
+<category>
+<pattern>政治经济学研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23498822 </template>
+</category>
+<category>
+<pattern>中国特色社会主义经济建设协同创新中心 办公室</pattern>
+<template>小开告诉你联系方式：23500335 23500235 </template>
+</category>
+<category>
+<pattern>中国哲学社会科学管理创新研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23500531 23508967 </template>
+</category>
+<category>
+<pattern>社会建设与管理研究院 办公室</pattern>
+<template>小开告诉你联系方式：23506232 </template>
+</category>
+<category>
+<pattern>农药国家工程研究中心（天津） 办公室</pattern>
+<template>小开告诉你联系方式：23503703 </template>
+</category>
+<category>
+<pattern>元素有机化学国家重点实验室 办公室</pattern>
+<template>小开告诉你联系方式：23503691 </template>
+</category>
+<category>
+<pattern>中国社会史研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23500126 23504338 </template>
+</category>
+<category>
+<pattern>世界近现代史研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23506475 </template>
+</category>
+<category>
+<pattern>跨国公司研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23508291 </template>
+</category>
+<category>
+<pattern>人权研究中心 办公室</pattern>
+<template>小开告诉你联系方式：23501318 </template>
+</category>
+<category>
+<pattern>生态文明研究院 办公室</pattern>
+<template>小开告诉你联系方式：23508631 </template>
+</category>
+<category>
+<pattern>天津化学化工协同创新中心 办公室</pattern>
+<template>小开告诉你联系方式：27407821 </template>
+</category>
+<category>
+<pattern>津南研究院 办公室</pattern>
+<template>小开告诉你联系方式：59185317 59185318(传真) </template>
+</category>
+<category>
+<pattern>校产党委 书记室</pattern>
+<template>小开告诉你联系方式：23507831 </template>
+</category>
+<category>
+<pattern>校产党委 副书记室</pattern>
+<template>小开告诉你联系方式：23508948 </template>
+</category>
+<category>
+<pattern>校产党委 办公室</pattern>
+<template>小开告诉你联系方式：23508108 </template>
+</category>
+<category>
+<pattern>迎水道校区 党委书记室</pattern>
+<template>小开告诉你联系方式：23683250 </template>
+</category>
+<category>
+<pattern>迎水道校区 管委会主任室</pattern>
+<template>小开告诉你联系方式：23666140 </template>
+</category>
+<category>
+<pattern>迎水道校区 办公室</pattern>
+<template>小开告诉你联系方式：23366137 </template>
+</category>
+<category>
+<pattern>迎水道校区 财务科</pattern>
+<template>小开告诉你联系方式：23364182 </template>
+</category>
+<category>
+<pattern>迎水道校区 保卫科</pattern>
+<template>小开告诉你联系方式：23366134 </template>
+</category>
+<category>
+<pattern>迎水道校区 后勤服务中心</pattern>
+<template>小开告诉你联系方式：23365139 </template>
+</category>
+<category>
+<pattern>迎水道校区 资产管理室</pattern>
+<template>小开告诉你联系方式：23364188 </template>
+</category>
+<category>
+<pattern>迎水道校区 校区门卫室</pattern>
+<template>小开告诉你联系方式：23364184 </template>
+</category>
+<category>
+<pattern>新校区规划建设指挥部 副指挥长</pattern>
+<template>小开告诉你联系方式：23504842 </template>
+</category>
+<category>
+<pattern>新校区规划建设指挥部 办公室</pattern>
+<template>小开告诉你联系方式：23508761 </template>
+</category>
+<category>
+<pattern>附属中学 办公室</pattern>
+<template>小开告诉你联系方式：60264307 </template>
+</category>
+<category>
+<pattern>﻿学校办公室（党办、校办）</pattern>
+<template>你想知道的部门是哪一个：主任室 副主任室 秘书科 综合科 督查科 信息调研科 信访办公室 文印室 法律事物室 师生服务中心 驻深圳办事处 八里台收发室 八里台服务楼物业室 津南业务东楼前台 津南业务西楼前台 津南总值班室 </template>
+</category>
+<category>
+<pattern>党委组织部、党校</pattern>
+<template>你想知道的部门是哪一个：部长室 组织工作 干部工作 党校 </template>
+</category>
+<category>
+<pattern>党委宣传部（新闻中心）</pattern>
+<template>你想知道的部门是哪一个：办公室 23500735 </template>
+</category>
+<category>
+<pattern>新闻中心</pattern>
+<template>你想知道的部门是哪一个：办公室 《南开大学报》编辑部 电视台 23508458 校史研究室 </template>
+</category>
+<category>
+<pattern>党委统战部</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>机关党委</pattern>
+<template>你想知道的部门是哪一个：办公室 书记室 副书记室 </template>
+</category>
+<category>
+<pattern>纪委、监察室</pattern>
+<template>你想知道的部门是哪一个：纪委办公室 监察室 </template>
+</category>
+<category>
+<pattern>党委学生工作部</pattern>
+<template>你想知道的部门是哪一个：办公室 部长室 教育宣传科 学生事务管理科 辅导员基地办公室 招生办公室 学生就业指导中心 学生档案室 学生生活指导中心 心理健康指导中心 艺术教育指导中心 八里台校区值班室 武装部 </template>
+</category>
+<category>
+<pattern>党委研究生工作部</pattern>
+<template>你想知道的部门是哪一个：部长室 副部长室 教育宣传科 事务管理科 </template>
+</category>
+<category>
+<pattern>教代会、工会</pattern>
+<template>你想知道的部门是哪一个：综合办公室 主席室 教代会办公室 财务室 </template>
+</category>
+<category>
+<pattern>团</pattern>
+<template>你想知道的部门是哪一个：委 委 委 </template>
+</category>
+<category>
+<pattern>保密办公室</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>研究生院（研究生工作部）</pattern>
+<template>你想知道的部门是哪一个：综合办公室 常务副院长室 招生办公室 培养办公室 （培养科） （学籍科） （研究生国际交流科） （学科建设科） （学位管理科） 专业学位办公室 23500031 教育管理办公室 </template>
+</category>
+<category>
+<pattern>人事处</pattern>
+<template>你想知道的部门是哪一个：处长室 副处长室 校学术委员会和校学风建设委员会办公室 博士后管理工作办公室 高级人才管理科 专业技术人员管理科 流动调配科 工资福利科 档案室 八里台校区值班室 医疗保险办公室 </template>
+</category>
+<category>
+<pattern>教务处</pattern>
+<template>你想知道的部门是哪一个：处长室 副处长室 教务行政科 教学管理科 教学研究科 本科教学质量监督评价中心 实验与实践教学科 教材中心 八里台校区值班室 </template>
+</category>
+<category>
+<pattern>战略发展部</pattern>
+<template>你想知道的部门是哪一个：办公室 23507136 部长室 副部长室 </template>
+</category>
+<category>
+<pattern>科学技术处</pattern>
+<template>你想知道的部门是哪一个：综合办公室 处长办公室 副处长办公室 项目管理科 重大项目培育办公室 基地建设科 成果管理科 技术开发科 专利与知识产权办公室 军工办公室 </template>
+</category>
+<category>
+<pattern>社会科学研究管理处</pattern>
+<template>你想知道的部门是哪一个：处长室 副处长室 项目管理科 办公室及档案统计科 成果与基地管理科 八里台校区值班 </template>
+</category>
+<category>
+<pattern>国际学术交流处</pattern>
+<template>你想知道的部门是哪一个：综合办公室 处长室 副处长室 交流科 留学生科 派出科 专家科 会计室 </template>
+</category>
+<category>
+<pattern>港澳台事务办公室</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>孔子学院工作办公室</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>科学成果转化中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>中国哲学社会科学管理创新研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>财务处</pattern>
+<template>你想知道的部门是哪一个：处长室 副处长室 审核科（报账大厅） 专项科 预算科 管理科 会计科 会计事务管理科 科研经费管理科 注册中心 基金科 国有资产管理委员会办公室 </template>
+</category>
+<category>
+<pattern>审计处</pattern>
+<template>你想知道的部门是哪一个：处长办公室 副处长办公室 财务审计科 工程审计科 八里台校区值班室 </template>
+</category>
+<category>
+<pattern>保卫处</pattern>
+<template>你想知道的部门是哪一个：办公室 （值班室） 处长室 副处长室 综合治理办公室 政保科 安全科 治安科 （监控室） （八里台东门） （八里台西南门） （八里台西门） （津南东门） （津南西门） （津南南门） （津南西北门） （津南北门） </template>
+</category>
+<category>
+<pattern>实验室设备处</pattern>
+<template>你想知道的部门是哪一个：办公室 处长室 副处长室 设备供应科 引进科 设备管理科 家具管理科 实验室科 技术安全科 会计室 综合实验楼值班室 </template>
+</category>
+<category>
+<pattern>招投标管理办公室</pattern>
+<template>你想知道的部门是哪一个：主任室 综合管理科 建设工程招标管理科 仪器设备招标管理科 财务室 </template>
+</category>
+<category>
+<pattern>离退休人员管理处</pattern>
+<template>你想知道的部门是哪一个：处长室 副处长室 综合科 退休科 党委秘书室 </template>
+</category>
+<category>
+<pattern>发展委员会办公室</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>校友工作办公室</pattern>
+<template>你想知道的部门是哪一个：办公室 主任室 副主任室 </template>
+</category>
+<category>
+<pattern>校产管理办公室</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>信息化建设与管理办公室</pattern>
+<template>你想知道的部门是哪一个：行政办公室 主任室 网络科 信息科 服务中心 网络维修 </template>
+</category>
+<category>
+<pattern>后勤保障部</pattern>
+<template>你想知道的部门是哪一个：综合办公室 项目管理办公室 设计办公室 节能办公室 能源管理中心电力科 能源管理中心水暖空调科 工程维修中心维修科 工程维修中心工程科 物业管理中心(八里台) 物业管理中心(津南) 校园环境管理中心 商贸中心 </template>
+</category>
+<category>
+<pattern>基建规划处</pattern>
+<template>你想知道的部门是哪一个：办公室 处长室 副处长室 计划财务科 项目管理科 工程管理科 </template>
+</category>
+<category>
+<pattern>房产管理处</pattern>
+<template>你想知道的部门是哪一个：处长室 副处长室 综合管理科 公房管理科 住宅管理科 周转房管理科 </template>
+</category>
+<category>
+<pattern>档案工作办公室</pattern>
+<template>你想知道的部门是哪一个：主任室 保管利用科 收集指导科 电子档案与技术服务科 值班室 </template>
+</category>
+<category>
+<pattern>文学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 院长室 书记室 团委、学工办 教学科研办公室 研究生办公室 图书资料中心 文学实验教学中心 中国语言文学系 传播学系 东方艺术系 艺术设计系 文化素质教学部 中华古典文化研究所 迦陵学舍值班室 </template>
+</category>
+<category>
+<pattern>历史学院</pattern>
+<template>你想知道的部门是哪一个：行政办公室 院长室 书记室 行政副院长室 本科教学副院长室 研究生教学副院长室 科研副院长室 副书记室 党务、人事办公室 团委 教学科研办公室 研究生教学办公室 古籍与文化研究所 世界近现代史研究中心 物业室 </template>
+</category>
+<category>
+<pattern>哲学院</pattern>
+<template>你想知道的部门是哪一个：行政办公室 院长工作室 书记室 副院长室 副书记室 学工办 教学办公室 资料中心 物业室 当代中国问题研究院 </template>
+</category>
+<category>
+<pattern>外国语学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 院长室 书记室 行政副院长室 教学副院长室 副院长室（公英部主任） 副书记室 团委 教学科研办公室 研究生办公室 MTI办公室 国际化发展办公室 资料中心 电教中心 财务室 外语考试中心 英语系 日语系 俄语系 法语系 德语系 西葡意语系 翻译系 </template>
+</category>
+<category>
+<pattern>公共英语教学部</pattern>
+<template>你想知道的部门是哪一个：办公室 党支部 教学办公室 </template>
+</category>
+<category>
+<pattern>法学院</pattern>
+<template>你想知道的部门是哪一个：行政办公室 党委办公室 院长室 书记室 行政副院长室 本科教学副院长室 研究生教学副院长室 科研副院长室 副书记室 团委 本科生办公室 科研、研究生办公室 会计室 法律硕士教育中心 资料中心 高端教育培训中心 物业室 </template>
+</category>
+<category>
+<pattern>周恩来政府管理学院</pattern>
+<template>你想知道的部门是哪一个：行政办公室 党委办公室 院长室 书记室 行政副院长室 副书记室 团委、学工办 本科教学办公室 研究生教学办公室 专业学位办公室 资料室、收发室 培训中心 亚洲研究中心 人权研究中心 中国政府与政策研究中心 社会建设与管理研究院 物业室 </template>
+</category>
+<category>
+<pattern>马克思主义学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 院长室 书记室 行政副院长室 教学副院长室 副书记室 团委、学工办 物业室 </template>
+</category>
+<category>
+<pattern>汉语言文化学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 院长室 书记室 行政副院长室 教学副院长室 副书记室 招生办公室 教学科研办公室 资料室 传达室 </template>
+</category>
+<category>
+<pattern>经济学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 院长室 书记室 团委 学工办 本科教学办公室 研究生教学管理办公室 学科建设与科研办公室 发展培训办公室 《南开经济研究》编辑部 金融EMBA项目办公室 经济实验教学中心 经济学系 国际经济与贸易系 财政学系、数量经济研究所、台湾经济研究所、财金研究所 经济研究所 国际经济研究所 城市与区域经济研究所 人口与发展研究所、国际商务系 办公楼值班室 </template>
+</category>
+<category>
+<pattern>金融学院</pattern>
+<template>你想知道的部门是哪一个：行政办公室 院长室 书记室 联席院长室 常务副院长室 行政副院长室 科研副院长室 副书记室 院长助理室 党委、人事办公室 财务室 外事办公室 团委 本科教务办公室 研究生办公室 专硕中心 实验中心 </template>
+</category>
+<category>
+<pattern>商学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 人力资源办公室 对外合作与交流办公室 认证办公室 教学科研办公室 研究生工作办公室 团委、学工办 编辑部 培训中心 会计室 资料室 校友办 市场营销系 现代管理研究所 企业管理系 人力资源管理系 财务管理系 会计学系 管理科学与工程系 信息资源管理系 MBA中心 EMBA中心 EXED MPM中心 MPAcc中心 MEM </template>
+</category>
+<category>
+<pattern>旅游与服务学院</pattern>
+<template>你想知道的部门是哪一个：书记室 院长室 教学副院长室 基层建设副院长室 党委副书记、副院长室 学院办公室 党委办公室 教学办公室 信息资源中心与科研办公室 旅游管理硕士专业学位（MTA）教育中心 交流合作办公室 团委办公室 现代旅游业发展协同创新中心办公室 旅游市场实验室 远程教育中心 </template>
+</category>
+<category>
+<pattern>数学科学学院</pattern>
+<template>你想知道的部门是哪一个：行政办公室 党委办公室 院长室 书记室 行政副院长室 本科教学副院长室 科研、研究生副院长室 副书记室 团委 本科生管理办公室 研究生管理办公室 计算实验室 科学计算研究所 高等数学教学部 值班室 </template>
+</category>
+<category>
+<pattern>物理科学学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 院长室 书记室 团委 本科教学办公室 研究生教学办公室 科研办公室 人事管理 财务室 资料室 天津市物理学会 三教值班室 五教值班室 </template>
+</category>
+<category>
+<pattern>化学学院</pattern>
+<template>你想知道的部门是哪一个：综合办公室 后勤安全 财务 资料室 固定资产 党委办公室 院长室 书记室 学工办 本科教学办公室 研究生教学办公室 科研办公室 化学系 《高校化学学报》分编辑部 元素有机化学研究所 元素有机化学国家重点实验室 农药国家工程研究中心 高分子化学研究所 《离子交换与吸附》编辑部 应用化学与工程研究所 分析科学研究中心 </template>
+</category>
+<category>
+<pattern>材料科学与工程学院</pattern>
+<template>你想知道的部门是哪一个：综合办公室 财务、设备 成果转化 党委办公室 副院长室 副书记室 团委 一站式服务中心 研究生教学 </template>
+</category>
+<category>
+<pattern>生命科学学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 院长室 书记室 副院长室 副书记室 团委、学工办 教学办公室 科研办公室 研究生办公室 公共实验平台 公共实验教学中心 生物活性材料教育部重点实验室 生物站值班室 生物楼值班室 第四教学楼值班室 分子所值班室 </template>
+</category>
+<category>
+<pattern>环境科学与工程学院</pattern>
+<template>你想知道的部门是哪一个：综合办公室 院长室 书记室 副院长室 副书记室 团委、学工办 教学科研办公室 85358121 驻泰达办公室 </template>
+</category>
+<category>
+<pattern>医学院</pattern>
+<template>你想知道的部门是哪一个：行政办公室 院长室 书记室 学工办 教学办公室 科研办公室 </template>
+</category>
+<category>
+<pattern>药学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 院长室 书记室 副院长室 副书记室 学工办 本科生教学 研究生教学 科研管理 仪器平台 </template>
+</category>
+<category>
+<pattern>电子信息与光学工程学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 院长、书记室 行政副院长室 教学、学生工作副院长室 党委秘书室 团委、学工办 教学科研办公室 研究生办公室 实验中心 光电子薄膜器件与技术研究所 现代光学研究所 </template>
+</category>
+<category>
+<pattern>计算机与控制工程学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 院长室 书记室 副院长室 副书记室 团委、学工办 教学科研办公室 研究生办公室 计算机科学与信息安全系 自动化与智能科学系 机器人与信息自动化研究所 机器智能研究所 实验教学中心 公共计算机基础教学部 物业室 </template>
+</category>
+<category>
+<pattern>软件学院</pattern>
+<template>你想知道的部门是哪一个：综合办公室 </template>
+</category>
+<category>
+<pattern>泰达学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 院长室 书记室 常务副院长室 行政副院长室 外事副院长室 后勤副院长室 副书记室 党委秘书室 团委、学工办 教学科研办公室 后勤办公室 财务室 实验教学中心 网络中心 图书资料中心 医务室 </template>
+</category>
+<category>
+<pattern>伯苓学院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>体育部</pattern>
+<template>你想知道的部门是哪一个：综合办公室 主任室 书记室 教学办公室 场馆中心办公室 体育馆值班室 </template>
+</category>
+<category>
+<pattern>图书馆</pattern>
+<template>你想知道的部门是哪一个：办公室 党委办公室 馆长室 副馆长室 中心馆总服务台 逸夫馆总服务台 理科馆总服务台 文献资源部 多媒体服务部 网络技术部 科技查新室 馆际互借与原文传递室 学位论文提交室 古籍部 经济学分馆 中心馆值班室 逸夫馆值班室 理科馆值班室 </template>
+</category>
+<category>
+<pattern>出版社</pattern>
+<template>你想知道的部门是哪一个：办公室 总编室 财务科 </template>
+</category>
+<category>
+<pattern>档案馆</pattern>
+<template>你想知道的部门是哪一个：馆长室 保管利用科 收集指导科 电子档案与技术服务科 值班室 </template>
+</category>
+<category>
+<pattern>学报编辑部</pattern>
+<template>你想知道的部门是哪一个：行政办公室 主编室 文科编辑室 理科编辑室 </template>
+</category>
+<category>
+<pattern>现代应用技术研究院</pattern>
+<template>你想知道的部门是哪一个：综合办公室 认证办公室 国防项目中心 </template>
+</category>
+<category>
+<pattern>科技成果转化中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>教师发展中心</pattern>
+<template>你想知道的部门是哪一个：综合办公室 </template>
+</category>
+<category>
+<pattern>博物馆</pattern>
+<template>你想知道的部门是哪一个：办公室 馆长室 资料室 东方艺术楼值班室 </template>
+</category>
+<category>
+<pattern>直属单位第一党委</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>后勤党委</pattern>
+<template>你想知道的部门是哪一个：办公室 书记室 副书记室 </template>
+</category>
+<category>
+<pattern>后勤保障部</pattern>
+<template>你想知道的部门是哪一个：综合办公室 项目管理办公室 设计管理办公室 节能办公室 电力运行科 水暖空调科 维修科 工程科 津南校区物业服务科 八里台校区物业服务科 环境管理科 商业服务管理科 户籍管理办公室 计划生育办公室 24小时报修平台 </template>
+</category>
+<category>
+<pattern>接待服务中心</pattern>
+<template>你想知道的部门是哪一个：办公室 客房预定 客运部 餐饮部 明珠园餐厅 爱大会馆餐厅 专家楼餐厅 谊园餐厅 静园餐厅 留学生公寓餐厅 品牌文化店 </template>
+</category>
+<category>
+<pattern>膳食服务中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>资产经营有限责任公司</pattern>
+<template>你想知道的部门是哪一个：办公室 党委办公室 书记室 财务部 人事部（留守管理中心） 企管部 </template>
+</category>
+<category>
+<pattern>继续教育学院</pattern>
+<template>你想知道的部门是哪一个：办公室 院长室 书记室 管理科 高端继续教育（EDP）中心 政府干部培训 企业培训 </template>
+</category>
+<category>
+<pattern>现代远程教育学院</pattern>
+<template>你想知道的部门是哪一个：办公室 院长室 书记室 招生管理部 学习中心与学生工作部 教学教务部 资源管理部 </template>
+</category>
+<category>
+<pattern>滨海学院</pattern>
+<template>你想知道的部门是哪一个：院办公室 院长室 书记室 团委 学生工作部 招生办公室 </template>
+</category>
+<category>
+<pattern>附属医院（第四医院）</pattern>
+<template>你想知道的部门是哪一个：院办公室 党委办公室 行政值班室 </template>
+</category>
+<category>
+<pattern>附属小学</pattern>
+<template>你想知道的部门是哪一个：办公室 教学处 </template>
+</category>
+<category>
+<pattern>幼儿园</pattern>
+<template>你想知道的部门是哪一个：园长室 教学、招生办公室 会计室 传达室 </template>
+</category>
+<category>
+<pattern>校医院</pattern>
+<template>你想知道的部门是哪一个：办公室 院长室 急诊室 预防科 </template>
+</category>
+<category>
+<pattern>药物化学生物学国家重点实验室</pattern>
+<template>你想知道的部门是哪一个：综合办公室 主任室 财务室 物业室 </template>
+</category>
+<category>
+<pattern>陈省身数学研究所</pattern>
+<template>你想知道的部门是哪一个：综合办公室 所长室 副所长室 财务室 教学科研办公室 理论物理研究室 数学图书馆 省身楼值班室 嘉园 23506281 </template>
+</category>
+<category>
+<pattern>组合数学研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>统计研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>泰达应用物理研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 副院长室 </template>
+</category>
+<category>
+<pattern>泰达生物技术研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 副院长室 </template>
+</category>
+<category>
+<pattern>经济与社会发展研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 院长室 副院长室 科技成果转化与国际交流办公室 </template>
+</category>
+<category>
+<pattern>金融发展研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>国家经济战略研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>滨海开发研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 院长室 </template>
+</category>
+<category>
+<pattern>中国公司治理院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>日本研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 院长室 </template>
+</category>
+<category>
+<pattern>跨文化交流院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>APEC研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>政治经济学研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>中国特色社会主义经济建设协同创新中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>中国哲学社会科学管理创新研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>社会建设与管理研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>农药国家工程研究中心（天津）</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>元素有机化学国家重点实验室</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>中国社会史研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>世界近现代史研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>跨国公司研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>人权研究中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>生态文明研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>天津化学化工协同创新中心</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>津南研究院</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+<category>
+<pattern>校产党委</pattern>
+<template>你想知道的部门是哪一个：书记室 副书记室 办公室 </template>
+</category>
+<category>
+<pattern>迎水道校区</pattern>
+<template>你想知道的部门是哪一个：党委书记室 管委会主任室 办公室 财务科 保卫科 后勤服务中心 资产管理室 校区门卫室 </template>
+</category>
+<category>
+<pattern>新校区规划建设指挥部</pattern>
+<template>你想知道的部门是哪一个：副指挥长 办公室 </template>
+</category>
+<category>
+<pattern>附属中学</pattern>
+<template>你想知道的部门是哪一个：办公室 </template>
+</category>
+
+</aiml>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<meta name="language" content="zh"/>
+
+<category>
+<pattern>teacher,*</pattern>
+<template>
+<random>
+    <li>恩？<get name="name">是哪个学院的呀？</li>
+    <li>告诉我<get name="name">的学院 </li>
+    <li>我知道的太少了，不如告诉我<get name="name">的学院吧</li>
+    <li>你知道<get name="name">在哪个学院吗</li>
+</random>
+</template>
+</category>
+</aiml>
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+
+<meta name="language" content="zh"/>
+
+
+<category>
+<pattern>网费查询</pattern>
+<template>
+http://netservice.nankai.edu.cn/ 
+</template>
+</category>
+ 
+http://ecard.nankai.edu.cn 校园一卡通 
+http://urp.nankai.edu.cn 信息门户 
+http://www.nankai.edu.cn/_t13/248/list.htm 南开校历 
+http://www.lib.nankai.edu.cn 图书借阅 
+http://news.nankai.edu.cn 南开新闻网 
+http://news.nankai.edu.cn/xwzt/system/2014/03/06/000168359.shtml 校报电子版
+http://nktv.nankai.edu.cn/ 南开电视台 
+http://radio.nankai.edu.cn/ 南开广播台 
+http://www.nankai.edu.cn/_t13/249/list.htm 电话簿 
+http://hqb.nankai.edu.cn/nk360/ 3D校园
+http://bt.nankai.edu.cn/nankaimap.jpg 校本部地图
+
+http://202.113.18.210/ 网关系统 
+http://mail.nankai.edu.cn 学生邮箱 
+http://xgb.nankai.edu.cn 本科生工作 
+http://jwc.nankai.edu.cn 教务处 
+http://ygb.nankai.edu.cn 研究生工作 
+http://graduate.nankai.edu.cn 研究生院 
+http://nktw.nankai.edu.cn 共青团委 
+http://zixiuke.nankai.edu.cn/ 研究生学术规范学习测试系统 
+http://ygb.nankai.edu.cn/liangshiyiyou/ 良师益友 
+http://fuxue.nankai.edu.cn/ 公能辅学 
+http://lecture.nankai.edu.cn/ 学术周末 
+http://222.30.32.2:802/2ZL/ 空闲教室查询 
+http://zc.nankai.edu.cn 学生注册 
+http://222.30.60.9/ 教育在线 
+http://222.30.32.10 选课系统  
+http://xb.nankai.edu.cn 办公网 
+http://jsfz.nankai.edu.cn 教师发展中心 
+http://202.113.18.180/ 网关系统 
+http://nankai.edu.cn 教工邮箱 
+http://cwc.nankai.edu.cn 工资查询 
+http://std.nankai.edu.cn 科研项目 
+http://ssrm.nankai.edu.cn 社科项目 
+http://sbc.nankai.edu.cn 实验室设备处 
+http://zbb.nankai.edu.cn 招投标  
+
+http://hqfw.nankai.edu.cn 后勤服务
+http://guard.nankai.edu.cn 校园卫士 
+http://dlzx.nankai.edu.cn 动力供应与维修中心 
+http://nkjd.nankai.edu.cn 接待服务中心  
+
+http://jw.nankai.edu.cn 觉悟网 
+http://xs.nankai.edu.cn 校史网 
+http://theory.nankai.edu.cn 党员干部学习网 
+
+http://jpkc.nankai.edu.cn 精品课程 
+http://ca.nankai.edu.cn 正版软件 
+http://soft.nankai.edu.cn 软件之家 
+http://music.nankai.edu.cn 世外桃源 
+http://movie.nankai.edu.cn 光影传奇 
+http://tv.nankai.edu.cn 网络电视 
+http://12club.nankai.edu.cn 十二社区 
+http://bt.nankai.edu.cn 南开BT站  
+
+http://xzxx.nankai.edu.cn 校长信箱 
+http://bbs.nankai.edu.cn 我爱南开BBS
+http://inankai.nankai.edu.cn 我的南开 
+http://weibo.com/nankaiuni 新浪官方微博
+http://t.qq.com/Nkdaxue 腾讯官方微博微信官方平台
+http://page.renren.com/600723792 人人网公共主页  
+
+http://nkxxq.nankai.edu.cn/ 新校区规划建设指挥部 
+http://nkxxq.nankai.edu.cn/ 新校区捐赠网
