@@ -3,6 +3,9 @@ import Kernel
 import os
 import sys
 import getopt
+
+
+
 this_path=os.path.dirname(os.path.realpath(__file__))
 
 
@@ -76,6 +79,7 @@ def Daily(argv):
 
 
 	print('ans='+respond.strip())
+	return(respond.strip())
     
 if __name__=="__main__":
 	Daily(sys.argv[1:])

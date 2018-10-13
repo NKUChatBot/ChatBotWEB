@@ -2,7 +2,7 @@
 """该文件包含了到aiml模块的公共接口。"""
 
 from __future__ import print_function
-from aiml.LangSupport import splitChinese
+from Apps.Daily.aiml.LangSupport import splitChinese
 import copy
 import glob
 import os
@@ -13,15 +13,15 @@ import sys
 import time
 import threading
 import xml.sax
-from collections import namedtuple
-from configparser import ConfigParser
+from Apps.Daily.collections import namedtuple
+from Apps.Daily.configparser import ConfigParser
 
-from aiml.constants import *
+from Apps.Daily.constants import *
 import aiml
 import aiml.DefaultSubs,aiml.Utils
-from aiml.AimlParser import create_parser
-from aiml.PatternMgr import PatternMgr
-from aiml.WordSub import WordSub
+from Apps.Daily.AimlParser import create_parser
+from Apps.Daily.aiml.PatternMgr import PatternMgr
+from Apps.Daily.aiml.WordSub import WordSub
 
 def msg_encoder( encoding=None ):
     """  返回一个 with a pair of functions to encode/decode 消息  的命名元组。

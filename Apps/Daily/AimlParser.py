@@ -2,7 +2,7 @@
 '''     AIML文件的解析器       '''
 
 from __future__ import print_function
-from LangSupport import splitChinese
+from Apps.Daily.LangSupport import splitChinese
 
 from xml.sax.handler import ContentHandler
 from xml.sax.xmlreader import Locator
@@ -10,7 +10,7 @@ import sys
 import xml.sax
 import xml.sax.handler
 
-from constants import *
+from Apps.Daily.constants import *
 
 
 class AimlParserError(Exception): 

@@ -1,6 +1,6 @@
 #coding:utf8
 
-import urllib2
+import urllib.request
 import json
 import re
 from string import digits
@@ -27,7 +27,7 @@ def is_alphabet(uchar):
     else:
         return False
 def format_str(content):
-    content = unicode(content,'utf-8')
+    content = urllib.request.unicode(content,'utf-8')
     content_str = ''
     for i in content:
         if is_chinese(i):
@@ -53,8 +53,8 @@ if __name__=='__main__':
         +"&output="+output\
         +"&ak=GuGZ01jekpjxCa1IGQCDNv608jm48wDt"
 
-  req = urllib2.Request(url)
-  res = urllib2.urlopen(req)
+  req = urllib.request.Request(url)
+  res = urllib.request.urlopen(req)
   s=res.read()
 
-  print s
+  print(s)

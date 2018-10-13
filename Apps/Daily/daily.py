@@ -1,12 +1,12 @@
-
+# _*_ coding:utf-8 _*_
 
 import os
 import sys
-
+from Apps.Daily.Kiaweb import DailyWeb
 curPath = os.path.abspath(os.path.dirname(__file__))
 rootPath = os.path.split(curPath)[0]
 sys.path.append(rootPath)
-import Kia
+
 
 def DailyQ(usrQ,sid):
 	path=curPath	#存放Kia.py文件夹的路径
@@ -76,26 +76,17 @@ def DailyQ(usrQ,sid):
 
 
 
-	mcd=os.popen("cd "+path,'r',100).read()
-	print(mcd)	
-	print(os.getcwd())	
-	res=os.popen("python3 "+path+"\\Kia.py -c "+usrQ+" -s "+sid,'r',1000)
-	lines=res.readlines()
-	for line in lines:
-		if "q=" in line:
-			q=line
-			qtxt=line.replace('q=','').strip()
-		if "sid=" in line:
-			sid=line
-		if "ans=" in line:
-			ans=line.replace("ans=",'')
-			if (ans.find("#learn")>-1):
-				LearnLog=open(aimlPath+"\\learn.txt","a+")
-				LearnLog.write(q)
-				LearnLog.write("a=#waiting")
-				LearnLog.close()
+	res=DailyWeb(usrQ,sid)
+
+
+	ans=res.replace("ans=",'')
+	if (ans.find("#learn")>-1):
+		LearnLog=open(aimlPath+"\\learn.txt","a+")
+		LearnLog.write("q="+usrQ+"\n")
+		LearnLog.write("a=#waiting\n")
+		LearnLog.close()
 	KiaAns=ans.strip()
-	return(KiaAns)		
+	return(KiaAns)
 if __name__=="__main__":
-	ans=DailyQ("拉拉链","21")
+	ans=DailyQ("乌拉拉","21")
 	print(ans)

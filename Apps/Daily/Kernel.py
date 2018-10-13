@@ -2,7 +2,7 @@
 """该文件包含了到aiml模块的公共接口。"""
 
 from __future__ import print_function
-from LangSupport import splitChinese
+from Apps.Daily.LangSupport import splitChinese
 import copy
 import glob
 import os
@@ -15,12 +15,12 @@ import threading
 import xml.sax
 from collections import namedtuple
 from configparser import ConfigParser
-
-from constants import *
-import DefaultSubs, Utils
-from AimlParser import create_parser
-from PatternMgr import PatternMgr
-from WordSub import WordSub
+import Apps.Daily.Utils
+from Apps.Daily.constants import *
+from Apps.Daily.DefaultSubs import *
+from Apps.Daily.AimlParser import create_parser
+from Apps.Daily.PatternMgr import PatternMgr
+from Apps.Daily.WordSub import WordSub
 
 def msg_encoder( encoding=None ):
     """  返回一个 with a pair of functions to encode/decode 消息  的命名元组。
@@ -61,11 +61,11 @@ class Kernel:
 
         # 设置单词替换器 (subbers)，来自WordSub文件:
         self._subbers = {}
-        self._subbers['gender'] = WordSub(DefaultSubs.defaultGender)
-        self._subbers['person'] = WordSub(DefaultSubs.defaultPerson)
-        self._subbers['person2'] = WordSub(DefaultSubs.defaultPerson2)
-        self._subbers['normal'] = WordSub(DefaultSubs.defaultNormal)
-        
+        self._subbers['gender'] = WordSub(defaultGender)
+        self._subbers['person'] = WordSub(defaultPerson)
+        self._subbers['person2'] = WordSub(defaultPerson2)
+        self._subbers['normal'] = WordSub(defaultNormal)
+
         # 设置元素处理器
         self._elementProcessors = {
             "bot":          self._processBot,
@@ -294,7 +294,7 @@ class Kernel:
             self._addSession(sessionID)   # 如果会话不存在，添加会话
 
             # ?????? discrete ???????
-            sentences = Utils.sentences(input_)
+            sentences = Apps.Daily.Utils.sentences(input_)
             finalResponse = u""
             for s in sentences:
                 # ???????????????????????<input />???????

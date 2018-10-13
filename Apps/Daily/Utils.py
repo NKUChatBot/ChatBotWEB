@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """该文件包含PyAIML包中其他模块使用的各种通用实用函数。    """
 
-from LangSupport import splitChinese
+from Apps.Daily.LangSupport import splitChinese
 
 def sentences(s):
     """将一堆字符串切分成一个句子列表。"""
