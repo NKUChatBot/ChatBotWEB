@@ -25,7 +25,7 @@ SECRET_KEY = 'z*ukci+5vjl46&uj_1x(b7+lj_c$1jl@-ljj^tnjwt(cm64tyl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["chatbot.shesl.top", "localhost", "159.65.98.177", "127.0.0.1"]
 
 
 # Application definition

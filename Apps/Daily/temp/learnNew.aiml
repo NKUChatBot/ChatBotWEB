@@ -24,4 +24,6 @@
 <category><pattern>呱呱</pattern><template>是青蛙吗</template></category>
 <category><pattern>乌拉拉</pattern><template>呱啦啦</template></category>
 <category><pattern>啪叽</pattern><template>呱嗒</template></category>
+<category><pattern>你知道我是谁吗</pattern><template>我是人</template></category>
+<category><pattern>你知道我是谁</pattern><template>你知道我是谁吗</template></category>
 </aiml>
