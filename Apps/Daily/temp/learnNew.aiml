@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ï»¿<?xml version="1.0" encoding="UTF-8"?>
 
 <aiml version="1.0">
 
 
-<category><pattern>ÄÏ¿ª</pattern><template>ÊÇÎÒµÄÑ§Ð£</template></category>
-<category><pattern>ÄÏ¿ª</pattern><template>ÎÒµÄ</template></category>
-<category><pattern>ÄÏ¿ª</pattern><template>ÄÏ¿ª</template></category>
-<category><pattern>ÄÏ¿ª</pattern><template>ÄÏ¿ª</template></category>
-<category><pattern>ÄÏ¿ª</pattern><template>ÄÏ¿ª</template></category>
-<category><pattern>ÄÏ¿ª</pattern><template>ÄÏ¿ª</template></category>
-<category><pattern>ÄÏ¿ª´óÑ§</pattern><template>ÊÇÎÒµÄÑ§Ð££¡</template></category>
-<category><pattern>ÄãÃÇÉè¼ÆÕß</pattern><template>ËÄ¸öÖÇÕÏ</template></category>
-<category><pattern>/±íÇé</pattern><template>½ñÌìÔõÃ´Ñù</template></category>
-<category><pattern>/±íÇé</pattern><template>Í¦ºÃµÄ</template></category>
-<category><pattern>½ñÌìÔõÃ´Ñù</pattern><template>ºÜºÃ</template></category>
-<category><pattern>/±íÇé</pattern><template>É¶°¡</template></category>
-<category><pattern>/±íÇé</pattern><template>²»»á</template></category>
-<category><pattern>×é³¤ÊÇË­</pattern><template>ssl</template></category>
-<category><pattern>ÔçÉÏºÃ</pattern><template>ÔçÉÏºÃÑ½</template></category>
-<category><pattern>±§±§Ð¡¿ª</pattern><template>ÍÛÀ²</template></category>
-<category><pattern>ÍíÉÏºÃ</pattern><template>ÍíÉÏºÃÑ½</template></category>
-<category><pattern>ÔõÃ´Ñù</pattern><template>ÎÒ¾õµÃº£ÐÇ</template></category>
-<category><pattern>ßÉßÉ</pattern><template>ÊÇÇàÍÜÂð</template></category>
-<category><pattern>ÎÚÀ­À­</pattern><template>ßÉÀ²À²</template></category>
-<category><pattern>Å¾ß´</pattern><template>ßÉàª</template></category>
-<category><pattern>ÄãÖªµÀÎÒÊÇË­Âð</pattern><template>ÎÒÊÇÈË</template></category>
-<category><pattern>ÄãÖªµÀÎÒÊÇË­</pattern><template>ÄãÖªµÀÎÒÊÇË­Âð</template></category>
+<category><pattern>å—å¼€</pattern><template>æ˜¯æˆ‘çš„å­¦æ ¡</template></category>
+<category><pattern>å—å¼€</pattern><template>æˆ‘çš„</template></category>
+<category><pattern>å—å¼€</pattern><template>å—å¼€</template></category>
+<category><pattern>å—å¼€</pattern><template>å—å¼€</template></category>
+<category><pattern>å—å¼€</pattern><template>å—å¼€</template></category>
+<category><pattern>å—å¼€</pattern><template>å—å¼€</template></category>
+<category><pattern>å—å¼€å¤§å­¦</pattern><template>æ˜¯æˆ‘çš„å­¦æ ¡ï¼</template></category>
+<category><pattern>ä½ ä»¬è®¾è®¡è€…</pattern><template>å››ä¸ªæ™ºéšœ</template></category>
+<category><pattern>/è¡¨æƒ…</pattern><template>ä»Šå¤©æ€Žä¹ˆæ ·</template></category>
+<category><pattern>/è¡¨æƒ…</pattern><template>æŒºå¥½çš„</template></category>
+<category><pattern>ä»Šå¤©æ€Žä¹ˆæ ·</pattern><template>å¾ˆå¥½</template></category>
+<category><pattern>/è¡¨æƒ…</pattern><template>å•¥å•Š</template></category>
+<category><pattern>/è¡¨æƒ…</pattern><template>ä¸ä¼š</template></category>
+<category><pattern>ç»„é•¿æ˜¯è°</pattern><template>ssl</template></category>
+<category><pattern>æ—©ä¸Šå¥½</pattern><template>æ—©ä¸Šå¥½å‘€</template></category>
+<category><pattern>æŠ±æŠ±å°å¼€</pattern><template>å“‡å•¦</template></category>
+<category><pattern>æ™šä¸Šå¥½</pattern><template>æ™šä¸Šå¥½å‘€</template></category>
+<category><pattern>æ€Žä¹ˆæ ·</pattern><template>æˆ‘è§‰å¾—æµ·æ˜Ÿ</template></category>
+<category><pattern>å‘±å‘±</pattern><template>æ˜¯é’è›™å—</template></category>
+<category><pattern>ä¹Œæ‹‰æ‹‰</pattern><template>å‘±å•¦å•¦</template></category>
+<category><pattern>å•ªå½</pattern><template>å‘±å—’</template></category>
+<category><pattern>ä½ çŸ¥é“æˆ‘æ˜¯è°å—</pattern><template>æˆ‘æ˜¯äºº</template></category>
+<category><pattern>ä½ çŸ¥é“æˆ‘æ˜¯è°</pattern><template>ä½ çŸ¥é“æˆ‘æ˜¯è°å—</template></category>
 </aiml>

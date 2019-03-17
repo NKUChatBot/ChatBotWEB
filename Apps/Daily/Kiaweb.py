@@ -11,22 +11,19 @@ rootPath = os.path.split(curPath)[0]
 sys.path.append(rootPath)
 
 
-def DailyWeb(question,msid):
-
-    path = this_path + "\\temp"
+def DailyWeb(question, msid):
+    path = this_path + "/temp"
     isDebug = True
-
 
     print('q=' + question)
     print('sid=' + msid)
 
-
     # ——————————————学习初始化————————_
 
     Kia = Kernel()
-    Kia.learn(path + "\\Kia.aiml")
-    Kia.learn(path + "\\nk.aiml")
-    Kia.learn(path + "\\learnNewU.aiml")
+    Kia.learn(path + "/Kia.aiml")
+    Kia.learn(path + "/nk.aiml")
+    Kia.learn(path + "/learnNewU.aiml")
     os.chdir(path)
 
     if isDebug:
@@ -38,12 +35,13 @@ def DailyWeb(question,msid):
 
     # ——————添加本次对话————————
     caches = os.listdir()
-    cache = open(msid + '.txt', 'a+')
+    cache = open(msid + '.txt', 'a+', encoding='utf-8')
     cache.write(question + '\n')
     cache.close()
 
     # ----------复原对话----------
-    cache = open(msid + '.txt', 'r')
+    print(msid)
+    cache = open(msid + '.txt', 'r', encoding='utf-8')
     lines = cache.readlines()
 
     for line in lines:
@@ -57,4 +55,4 @@ def DailyWeb(question,msid):
 
 
 if __name__ == "__main__":
-    DailyWeb("你好","21")
+    DailyWeb("你好", "21")
