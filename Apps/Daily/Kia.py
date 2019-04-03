@@ -15,7 +15,7 @@ sys.path.append(rootPath)
 
 def Daily(argv):
 	#path="C:\\Temp\\tmp_qqbot"	#存放临时文件和aiml文件的路径
-	path=this_path+"\\temp"
+	path=this_path+"/temp"
 	isDebug=True
 	question='null'
 	msid='null'
@@ -47,9 +47,9 @@ def Daily(argv):
 #——————————————学习初始化————————_
 	
 	Kia=Kernel.Kernel()
-	Kia.learn(path+"\\Kia.aiml")
-	Kia.learn(path+"\\nk.aiml") 
-	Kia.learn(path+"\\learnNewU.aiml")   
+	Kia.learn(path+"/Kia.aiml")
+	Kia.learn(path+"/nk.aiml")
+	Kia.learn(path+"/learnNewU.aiml")
 	os.chdir(path)
 
 	if isDebug :

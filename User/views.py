@@ -24,6 +24,7 @@ def chatbot(request):
 def ask_for_answer(request):
     question = request.POST.get("input")
     answer = response(question)
+    print("::",request)
     return JsonResponseZh({"data": answer})
 
 
