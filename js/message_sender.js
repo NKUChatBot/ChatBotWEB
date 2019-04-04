@@ -1,5 +1,7 @@
 
 function MessageSender(text){
+    this.BACKEND = "http://www.nkchatbot.com:8083";
+    //this.BACKEND = "http://localhost:8000";
     this.QUESTION = text;
     this.ANSWER = "This is a default answer";
 }
@@ -7,9 +9,11 @@ function MessageSender(text){
 MessageSender.prototype.askChatbot = function(){
     let self = this;
     $.ajax({
-        url: "/ask/", type: "POST", dataType: "json", async:false,
-        data: {"input": self.QUESTION},
-        success:function(res){self.ANSWER = res.data;},
+        url: `${self.BACKEND}/ask/?question=${self.QUESTION}`,
+        success:function(res){
+            console.log(res);
+            self.ANSWER = res.data.answer;
+        },
         error:function(){self.ANSWER = "Sorry QA program fail!"}
     });
     return this;
@@ -18,10 +22,13 @@ MessageSender.prototype.askChatbot = function(){
 MessageSender.prototype.getChatbotGreet = function(greetingType){
     let self = this;
     $.ajax({
-        url: "/greet/", type: "POST", dataType: "json", async:false,
-        data: {"mood": greetingType}
+        url: `${self.BACKEND}/greet/?mood=${greetingType}`,
+        async:false,
     })
-        .done(function (data) {self.ANSWER = data.data;})
+        .done(function (data) {
+            console.log(data);
+            self.ANSWER = data.data.greet;
+        })
         .fail(function(){ self.ANSWER = "Sorry Greeting program fail!"});
     return this.ANSWER;
 };
